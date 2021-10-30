@@ -1,5 +1,16 @@
 # Change Log
 
+## 99 Mods Fabric Edition 1.18-0.5.0
+
+Oct. 28, 2021
+
+- Mods Added:
+  - wthit-fabric-4.0.0
+- Mods Updated:
+- Mods Removed:
+- Other Changes:
+  - Changed EssentialGUI to not show item on HUD
+
 ## 99 Mods Fabric Edition 1.18-0.4.0
 
 Oct. 28, 2021
