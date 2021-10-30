@@ -1,5 +1,32 @@
 # Change Log
 
+## 99 Mods Fabric Edition 1.18-0.7.0
+
+Oct. 30, 2021
+
+- Mods Added:
+  - autoconfig1u-3.3.1
+  - dankstorage-2.2.1-1.17.1
+  - fabric-furnaces-2.0.1-1.17
+  - fabric-language-kotlin-1.6.5+kotlin.1.5.31
+  - fabric-language-scala-2.0.0+scala.3.0.2
+  - get-off-my-lawn-1.17-1.4.0-beta
+  - trapexpansion-1.3.3+fabric-mc1.17
+  - xp_storage-1.4.2+1.17.1
+  - xpstorage_trinkets-0.1+1.17.1
+  - yosbr-0.1.1
+- Mods Updated:
+  - EditSign-1.17.1-2.2.3
+  - Gobber2-Fabric-1.18-21w43a-2.5.26
+  - InventoryProfilesNext-fabric-1.17-1.1.1
+  - MiningDimensions_Fabric-1.18-21w43a-1.2.18
+  - Mo-Glass-1.5-MC21w43a
+- Mods Removed:
+  - MCDoom-Fabric-1.18-4.0.19 (Weapons Too OP)
+- Other Changes:
+  - Updated Minecraft snapshot 21w43a
+  - Updated Fabric 0.12.3
+
 ## 99 Mods Fabric Edition 1.18-0.5.0
 
 Oct. 28, 2021
