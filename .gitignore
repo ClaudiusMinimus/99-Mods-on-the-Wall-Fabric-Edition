@@ -73,12 +73,13 @@ modlist.html
 
 # Do not ignore these directories
 !minecraft/config/EssentialGUI
+!minecraft/config/gobber2
+!server/config/gobber2
 
 # Still ignore this directory
 #minecraft/config/betterdefaultbiomes/food
 
 # Do not ignore these files
-!minecraft/config/gobber2/general.json5
-!server/config/gobber2/general.json5
+!minecraft/config/betterrecipebook.toml
 !server/server.properties
 !mmc-pack.json

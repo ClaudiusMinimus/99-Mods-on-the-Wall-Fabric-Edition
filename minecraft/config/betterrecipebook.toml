@@ -1,0 +1,20 @@
+enableBook = true
+settingsButton = true
+darkMode = false
+keepCentered = true
+
+[newRecipes]
+unlockAll = true
+enableBounce = false
+
+[instantCraft]
+instantCraft = false
+showButton = true
+
+[alternativeRecipes]
+onHover = true
+noGrouped = false
+
+[scrolling]
+enableScrolling = true
+scrollAround = false
