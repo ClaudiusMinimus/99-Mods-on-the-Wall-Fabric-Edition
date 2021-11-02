@@ -68,6 +68,7 @@
 	"ringAttractionRange": 8,
 	"ringBlinkDistance": 100,
 	"ringBlinkCooldown": 120,
+	"enableCuringAlwaysOn": false,
 	"ringDismissalRange": 8.0,
 	"ringDismissalVelocity": 0.2,
 	"ringDismissalLift": 1.5,
