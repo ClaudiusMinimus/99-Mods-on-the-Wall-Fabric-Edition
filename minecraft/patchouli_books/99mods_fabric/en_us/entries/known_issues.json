@@ -1,0 +1,11 @@
+{
+    "name": "Known Issues",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Here are a list of known issues that are hopefully will be resolved. Links will show issue reports and possible workarounds.$(li)$(l:https://github.com/SolidBlock-cn/extshape/issues/8)Cannot Craft Lapis Block to Lapis Lazuli$(/l)$(li)$(l:https://github.com/glisco03/conjuring/issues/21)Errors in Conjuring Enchiridion$(/l)"
+        }
+    ]
+}

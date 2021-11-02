@@ -5,7 +5,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "At this point 99 Mods plays a lot like a vanilla game, $(o)though with some great tools and weapons$(). Therefore, it would be wise to find a village as soon as possible for getting resources and villager trades going. I will link some good videos in the Videos chapter to help get started."
+            "text": "At this point 99 Mods plays a lot like a vanilla game, $(o)though with some great tools and weapons$(). Therefore, it would be wise to find a village as soon as possible for getting resources and villager trades going. I will link some good videos in the $(l:videos_early_game)Videos chapter$(/l) to help get started."
         },
         {
             "type": "patchouli:spotlight",
