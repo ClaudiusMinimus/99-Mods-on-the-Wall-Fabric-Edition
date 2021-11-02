@@ -76,6 +76,7 @@ modlist.html
 # Do not ignore these directories
 !minecraft/config/EssentialGUI
 !minecraft/config/gobber2
+!minecraft/config/mining_dims
 !server/config/gobber2
 
 # Still ignore this directory
