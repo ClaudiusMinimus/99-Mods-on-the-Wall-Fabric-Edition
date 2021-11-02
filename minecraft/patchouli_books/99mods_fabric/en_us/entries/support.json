@@ -1,0 +1,15 @@
+{
+    "name": "Support",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Support can be found in two places:$(li)$(l:https://discord.com/invite/jXrx4Tu)CM's World discord$(/l)$(li)$(l:https://github.com/ClaudiusMinimus/99-Mods-on-the-Wall-Fabric-Edition/issues)Github$(/l)$()$(br2)Due to the early stages of pre-Release 1.18 and the limited number of mods, I am not able to include custom images, but will link them to imgur if needed."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "If you feel a topic needs to be added to this book, please post it on discord."
+        }
+    ]
+}

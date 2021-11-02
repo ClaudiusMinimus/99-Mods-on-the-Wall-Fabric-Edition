@@ -1,0 +1,16 @@
+{
+    "name": "Conjuring",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "At the time of this this release, the mod, Conjuring is in ALPHA, which means not everything is working and the guide book cannot be opened. I have included this $(l:https://www.youtube.com/watch?v=lpcCFRmsIsY)Conjuring Spotlight$(/l) video to make getting started much easier. This video is for 1.16.5, but it is much the same now.$(br2)REI for 1.18 has not been released, so here are some of the recipes you will need."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "conjuring:blackstone_pedestal",
+            "text": ""
+        }
+    ]
+}
