@@ -42,7 +42,7 @@
 	*/
 	"extraDiamondDeepslateVeinSize": 3,
 	"extraDiamondDeepslateVeinsPerChunk": 8,
-	"extraDiamondDeepslateMaxHeight": -50,
+	"extraDiamondDeepslateMaxHeight": -40,
 	/* 
 	   
 	   ***********************
