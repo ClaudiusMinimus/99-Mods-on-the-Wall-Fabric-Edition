@@ -1,0 +1,17 @@
+{
+    "name": "Tips & Tricks",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "In this section I will try to show some tips and tricks that may prove helpful."
+        },
+    {
+            "type": "patchouli:spotlight",
+            "title": "Remove Enchantments",
+            "item": "minecraft:grindstone",
+            "text": "Use a Grindstone to pull enchantments off of books, tool, weapons, and armor."
+        }
+    ]
+}

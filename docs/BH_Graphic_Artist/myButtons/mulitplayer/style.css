@@ -1,0 +1,71 @@
+/*
+** This CSS code is not done to the web.
+** The automatic HTML and CSS code are only a helper.
+*/
+
+body {
+  text-align: center;
+}
+
+#element-1 {
+  background: url("slice-00.png") no-repeat;
+  position: absolute;
+  top: 866px;
+  left: 337px;
+  width: 414px;
+  height: 95px;
+}
+
+#element-2 {
+  background: url("joinserver.png") no-repeat;
+  position: absolute;
+  top: 866px;
+  left: 751px;
+  width: 416px;
+  height: 95px;
+}
+
+#element-3 {
+  background: url("directconnetion.png") no-repeat;
+  position: absolute;
+  top: 866px;
+  left: 1168px;
+  width: 423px;
+  height: 95px;
+}
+
+#element-4 {
+  background: url("rect1899.png") no-repeat;
+  position: absolute;
+  top: 961px;
+  left: 337px;
+  width: 308px;
+  height: 95px;
+}
+
+#element-5 {
+  background: url("rect1903.png") no-repeat;
+  position: absolute;
+  top: 961px;
+  left: 645px;
+  width: 315px;
+  height: 95px;
+}
+
+#element-6 {
+  background: url("rect1907.png") no-repeat;
+  position: absolute;
+  top: 961px;
+  left: 960px;
+  width: 315px;
+  height: 95px;
+}
+
+#element-7 {
+  background: url("rect1911.png") no-repeat;
+  position: absolute;
+  top: 961px;
+  left: 1276px;
+  width: 315px;
+  height: 95px;
+}
