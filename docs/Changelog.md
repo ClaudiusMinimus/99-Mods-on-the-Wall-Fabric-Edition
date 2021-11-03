@@ -1,5 +1,23 @@
 # Change Log
 
+## 99 Mods Fabric Edition 1.18-0.10.0
+
+Nov. 3, 2021
+
+- Mods Added:
+  - essential_commands-0.17.0-mc1.17.1
+- Mods Updated:
+  - conjuring-2.0.0+pre5
+  - Gobber2-Fabric-1.18-21w43a-2.5.32
+  - InventoryProfilesNext-fabric-1.17-1.1.3
+  - MoreGems-Fabric-1.18-21w43a-1.3.26
+  - projectsavethepets-2.0.0-beta.1+2021.19c19369c0
+- Mods Removed:
+  - Bssentials-Fabric (replaced with Essential Commands)
+  - TP-Utils-1.5.10-beta-mc1.18 (replaced with Essential Commands)
+- Other Changes:
+  - Added entries for 99 Mods book
+
 ## 99 Mods Fabric Edition 1.18-0.9.0
 
 Nov. 2, 2021
