@@ -1,5 +1,29 @@
 # Change Log
 
+## 99 Mods Fabric Edition 1.18-0.9.0
+
+Oct. 30, 2021
+
+- Mods Added:
+  - apples-carrots-1.3.1
+  - Bssentials-Fabric
+  - CyberPermissions-1.3-fabric
+  - DefaultSettings-1.18.x-3.1.0
+  - projectsavethepets-2.0.0-beta.0+2021.46a81727f3
+  - storagebox-1.0.4-1.17.1
+- Mods Updated:
+  - conjuring-2.0.0+pre2
+  - cullleaves-2.3.2
+  - EssentialGUI-1.7+21w43a
+  - fabric-api-0.41.3+1.18
+  - Gobber2-Fabric-1.18-21w43a-2.5.31
+  - InventoryProfilesNext-fabric-1.17-1.1.2
+  - MoreGems-Fabric-1.18-21w43a-1.3.25
+- Mods Removed:
+- Other Changes:
+  - Added 99 Mods Book (Patchouli)
+  - Tweaked a few config files
+
 ## 99 Mods Fabric Edition 1.18-0.7.0
 
 Oct. 30, 2021
