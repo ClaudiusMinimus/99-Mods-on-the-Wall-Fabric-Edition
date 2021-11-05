@@ -1,5 +1,33 @@
 # Change Log
 
+## 99 Mods Fabric Edition 1.18-0.11.0
+
+Nov. 5, 2021
+
+- Mods Added:
+  - blockus-2.3.0+21w43a
+  - deepslatecutting-21w40a-1.3.0
+- Mods Updated:
+  - geckolib-fabric-1.18-3.0.12
+  - Gobber2-Fabric-1.18-21w44a-2.5.33
+  - GreaterEye-Fabric-1.18-21w44a-1.3.9
+  - MiningDimensions_Fabric-1.18-21w44a-1.2.21
+  - MobCatcher-Fabric-1.18-21w44a-1.1.9
+  - ResourcefulTools-Fabric-1.18-21w44a-1.2.14
+  - SimpleBackpack_Fabric-1.18-21w44a-1.2.12
+  - TheVeggieWay_Fabric-1.18-21w44a-1.2.10
+  - WardBlocks-Fabric-1.18-21w44a-1.2.12
+  - Wooled-Boots-v1.0.1-FABRIC-MC-21w38a
+- Mods Removed:
+  - Extended Block Shapes (extshape-1.3.0-mc1.17+ replaced with Blockus)
+- Other Changes:
+  - Updated snapshot to 21w44a
+  - Updated Fabric to 0.12.4
+  - Updated 99 Mods book
+  - Added new datapack 99modsfabric.zip (separate download)
+    - Receive 99 Mods book on 1st join
+    - Added some recipes including for the 99 Mods book
+
 ## 99 Mods Fabric Edition 1.18-0.10.0
 
 Nov. 3, 2021
