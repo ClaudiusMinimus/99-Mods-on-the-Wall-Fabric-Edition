@@ -65,6 +65,7 @@
 	   ***********************
 	*/
 	"ringAboveCooldown": 120,
+	"enableAirWalkingPlaceGlass": true,
 	"ringAttractionRange": 8,
 	"ringBlinkDistance": 100,
 	"ringBlinkCooldown": 120,
