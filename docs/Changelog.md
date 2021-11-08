@@ -1,5 +1,23 @@
 # Change Log
 
+## 99 Mods Fabric Edition 1.18-0.12.0
+
+Nov. 7, 2021
+
+- Mods Added:
+  - extshape-1.3.0-mc1.17+.jar
+  - MoEnchantments-2.0.0.jar
+  - Paxi-Fabric-1.17-1.2.2.jar
+- Mods Updated:
+  - Gobber2-Fabric-1.18-21w44a-2.5.35.jar
+  - MoreGems-Fabric-1.18-21w44a-1.3.28.jar
+  - ResourcefulTools-Fabric-1.18-21w44a-1.2.15.jar
+  - YungsApi-1.17-Fabric-19.jar
+- Mods Removed:
+  - blockus-2.3.0+21w43a (conflicted with Dank Storage, will add again when fixed)
+- Other Changes:
+  - Updated Fabric to 0.12.5
+
 ## 99 Mods Fabric Edition 1.18-0.11.0
 
 Nov. 5, 2021
