@@ -88,6 +88,8 @@ modlist.html
 # Do not ignore these files
 !minecraft/config/betterrecipebook.toml
 !minecraft/config/conjuring.json5
+!minecraft/config/harvest.json
 !server/config/conjuring.json5
+!server/config/harvest.json
 !server/server.properties
 !mmc-pack.json
