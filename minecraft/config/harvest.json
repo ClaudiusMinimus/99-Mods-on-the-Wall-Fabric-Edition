@@ -31,6 +31,30 @@
       "states": {
         "age": "3"
       }
+    },
+    {
+      "block": "veggie_way:plant_corn",
+      "states": {
+        "age": "7"
+      }
+    },
+    {
+      "block": "veggie_way:plant_lentil",
+      "states": {
+        "age": "7"
+      }
+    },
+    {
+      "block": "veggie_way:plant_quinoa",
+      "states": {
+        "age": "7"
+      }
+    },
+    {
+      "block": "veggie_way:plant_soybean",
+      "states": {
+        "age": "7"
+      }
     }
   ]
 }
