@@ -50,6 +50,8 @@ Nov. 20, 2021
   - Must use Java 17
   - Minecraft 1.18-pre5
   - Updates to 99 Mods book (Patchouli)
+  - Disabled emerald tools in the mod, EmeraldTools
+  - Copied emerald values from EmeraldTools to MoreGems
 
 ## 99 Mods Fabric Edition 1.18-0.12.0
 
