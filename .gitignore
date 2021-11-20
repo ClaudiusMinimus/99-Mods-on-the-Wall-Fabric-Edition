@@ -37,6 +37,7 @@ build/*server.zip
 builds/server*.zip
 build/99mtw-1.16.5-*.zip
 minecraft/ds_private_storage.json
+minecraft/servers.dat
 minecraft/XaeroWaypoints*
 minecraft/instance.cfg
 minecraft/instance.json
