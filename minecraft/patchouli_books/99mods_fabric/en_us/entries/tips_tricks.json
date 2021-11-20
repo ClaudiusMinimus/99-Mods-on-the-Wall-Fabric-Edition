@@ -17,7 +17,7 @@
             "type": "patchouli:spotlight",
             "title": "Make a Map",
             "item": "minecraft:map",
-            "text": "Since there are no minimap/map mods for 1.18 yes, make a Minecraft Map! After initializing the map, place it back into a crafting table surrounded by paper so you can see it zoomed out - this can be done four times. By making a map you will be able to find your way home!"
+            "text": "Since there are no minimap/map mods for 1.18 yet, make a Minecraft Map! After initializing the map, place it back into a crafting table surrounded by paper so you can see it zoomed out - this can be done four times. By making a map you will be able to find your way home!"
         }
     ]
 }
