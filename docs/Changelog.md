@@ -1,5 +1,56 @@
 # Change Log
 
+## 99 Mods Fabric Edition 1.18-0.16.0-Pre5
+
+Nov. 20, 2021
+
+- Mods Added: _Included changes since 0.12.0_
+  - All+Arrows+Infinity+Fix-FABRIC-1.0.0-MC-1.18-Pre2
+  - blockus-2.3.1+1.18-pre5
+  - camerautils-1.18-pre2-1.0.0
+  - canvas-fabric-mc118-1.0.2223
+  - consistency_plus-0.4.1+1.17
+  - CraftPresence-Fabric-21w38a-Release-1.8.8
+  - DynamicSoundFilters-1.3.0+1.18
+  - EmeraldTools-Fabric-1.18-Pre5-1.3.24
+  - goblin-traders-1.4.0
+  - Mambience-3.2.0+1.18
+  - miningutility-1.2+1.18-pre1
+  - NE-1.18-Fabric-1.2.0
+  - OverpoweredPickles-Fabric-1.18-pre5-1.3.3
+  - paintings-fabric-21w40a-1.0.0.4
+  - renderdistance-1.18-pre1-1.0.0
+  - shulkerboxtooltip-3.0.5-beta.1+1.18-pre5
+  - wmitef-fabric-1.1.0-mc1.18
+  - youre-in-grave-danger-1.2.0
+- Mods Updated: _Included changes since 0.12.0_
+  - architectury-3.0.39
+  - extshape-1.3.1-mc1.17+
+  - fabric-api-0.42.8+1.18
+  - FallingTree-1.18-pre2-2.14.3
+  - geckolib-fabric-1.18-3.0.20
+  - Gobber2-Fabric-1.18-pre5-2.5.45
+  - GreaterEye-Fabric-1.18-pre5-1.3.13
+  - grizzlybear-1.17-1.2.0
+  - Harvest-fabric-1.16.1-1.0.1
+  - InventoryProfilesNext-fabric-1.18-1.1.6
+  - MiningDimensions_Fabric-1.18-pre5-1.2.27
+  - Mo-Glass-1.5-MC1.18-pre5
+  - MobCatcher-Fabric-1.18-pre5-1.1.13
+  - MoreGems-Fabric-1.18-pre5-1.3.39
+  - quartz-elevator-2.0.0-beta1-1.18-pre5
+  - ResourcefulTools-Fabric-1.18-pre5-1.2.22
+  - SimpleBackpack_Fabric-1.18-pre5-1.2.16
+  - TheVeggieWay_Fabric-1.18-pre5-1.2.19
+  - WardBlocks-Fabric-1.18-pre5-1.2.16
+  - Wooled-Boots-v1.0.1-FABRIC-MC1.18Pre2
+- Mods Removed: _Included changes since 0.12.0_
+  - Copper Armor & Tools (EmeraldTools replaces and expands)
+- Other Changes:
+  - Must use Java 17
+  - Minecraft 1.18-pre5
+  - Updates to 99 Mods book (Patchouli)
+
 ## 99 Mods Fabric Edition 1.18-0.12.0
 
 Nov. 7, 2021
