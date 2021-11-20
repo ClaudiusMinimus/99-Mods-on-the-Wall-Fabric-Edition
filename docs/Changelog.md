@@ -1,5 +1,18 @@
 # Change Log
 
+## 99 Mods Fabric Edition 1.18-0.17.0-Pre5
+
+Nov. 20, 2021
+
+- Mods Added:
+  - notenoughcrashes-4.1.1+1.18-pre5-fabric
+- Mods Updated:
+  - Gobber2-Fabric-1.18-pre5-2.5.47
+  - MiningDimensions_Fabric-1.18-pre5-1.2.28
+  - MoreGems-Fabric-1.18-pre5-1.3.40
+- Mods Removed:
+- Other Changes:
+
 ## 99 Mods Fabric Edition 1.18-0.16.0-Pre5
 
 Nov. 20, 2021
