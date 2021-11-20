@@ -1,5 +1,15 @@
 # Change Log
 
+## 99 Mods Fabric Edition 1.18-0.17.1-Pre5
+
+Nov. 20, 2021
+
+- Mods Added:
+- Mods Updated:
+- Mods Removed:
+- Other Changes:
+  - Fixed typos on 99 Mods book
+
 ## 99 Mods Fabric Edition 1.18-0.17.0-Pre5
 
 Nov. 20, 2021
