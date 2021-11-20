@@ -102,6 +102,7 @@
 	   -used with optimization mods
 	   that break things
 	   Value of 300 works
+	   - only needed if there is a problem
 	   ***********************
 	*/
 	"effectDuration": 8,
@@ -316,14 +317,9 @@
 	   ***********************
 	*/
 	"enableSmithblade": true,
-	"smithbladeAttackAmount": 2,
-	"smithbladeMaxLevel": 5,
 	"enableRebuffing": true,
-	"rebuffingMaxLevel": 3,
 	"enableFasterObsidian": true,
 	"enableUntouchable": true,
-	"untouchableDamage": 8,
-	"untouchableMaxLevel": 3,
 	"enableQuickUse": true,
 	"enableBlinders": true,
 	"enableSolidFooting": true,
@@ -333,6 +329,17 @@
 	"enableSummonerBonusStats": true,
 	"summonerGoldGear": true,
 	"summonerMobLifespan": 120,
+	/* 
+	   
+	   ***********************
+	   Enchantment Settings
+	   ***********************
+	*/
+	"smithbladeAttackAmount": 2,
+	"smithbladeMaxLevel": 5,
+	"rebuffingMaxLevel": 3,
+	"untouchableDamage": 8,
+	"untouchableMaxLevel": 3,
 	"summonerHealthBonus": 30.0,
 	"summonerAttackBonus": 10.0,
 	"summonerMovementBonus": 0.6,
