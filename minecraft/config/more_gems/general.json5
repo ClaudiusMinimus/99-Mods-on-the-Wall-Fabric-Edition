@@ -148,22 +148,33 @@
 	   ******************************
 	   EMERALD TOOL MATERIAL
 	   ******************************
-	*/
 	"emeraldDurability": 1170,
 	"emeraldMiningSpeed": 6.0,
 	"emeraldAttackDamage": 2.0,
 	"emeraldMiningLevel": 2,
 	"emeraldEnchantability": 14,
+	Below are the values from the EmeraldTools mod
+	*/
+	"emeraldDurability": 1170,
+	"emeraldMiningSpeed": 8.0,
+	"emeraldAttackDamage": 3.0,
+	"emeraldMiningLevel": 3,
+	"emeraldEnchantability": 10,
 	/* 
 	   
 	   
 	   ******************************
 	   EMERALD ARMOR MATERIAL
 	   ******************************
-	*/
 	"emeraldDurabilityMultiplier": 25,
 	"emeraldArmorEnchantability": 9,
 	"emeraldToughness": 0.0,
+	"emeraldKnockbackResistance": 0.0,
+	Below are the values from the EmeraldTools mod
+	*/
+	"emeraldDurabilityMultiplier": 26,
+	"emeraldArmorEnchantability": 12,
+	"emeraldToughness": 2.0,
 	"emeraldKnockbackResistance": 0.0,
 	/* 
 	   
