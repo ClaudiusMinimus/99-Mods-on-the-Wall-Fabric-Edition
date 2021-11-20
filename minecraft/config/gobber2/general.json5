@@ -70,6 +70,7 @@
 	"ringBlinkDistance": 100,
 	"ringBlinkCooldown": 120,
 	"enableCuringAlwaysOn": false,
+	"ringCuringCooldown": 120,
 	"ringDismissalRange": 8.0,
 	"ringDismissalVelocity": 0.2,
 	"ringDismissalLift": 1.5,
@@ -115,6 +116,8 @@
 	"medallionLesserHealingAmount": 1,
 	"medallionHealingAmount": 2,
 	"medallionGreaterHealingAmount": 3,
+	"medallionShieldingHorizRange": 3,
+	"medallionShieldingVertRange": 2,
 	"medallionShieldingAgainstWither": false,
 	"medallionSufferingRange": 8,
 	"medallionSufferingDamage": 3,
@@ -365,6 +368,16 @@
 	"specialItemMin": 20000,
 	"specialItemMax": 75000,
 	"specialItemUsePlayerPos": false,
+	/* 
+	   
+	   ***********************
+	   Fuel (Foo) Settings
+	   
+	   ***********************
+	*/
+	"fooBurntime": 12000,
+	"fooNetherBurntime": 24000,
+	"fooEndBurntime": 32000,
 	/* 
 	   
 	   ***********************
