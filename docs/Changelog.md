@@ -1,5 +1,16 @@
 # Change Log
 
+
+## 99 Mods Fabric Edition 1.18-0.17.2-Pre5
+
+Nov. 20, 2021
+
+- Mods Added:
+- Mods Updated:
+- Mods Removed:
+  - Had forgotten to delete disabled mods, so 0.17.1 included previous version of mods from 0.17.0
+- Other Changes:
+
 ## 99 Mods Fabric Edition 1.18-0.17.1-Pre5
 
 Nov. 20, 2021
