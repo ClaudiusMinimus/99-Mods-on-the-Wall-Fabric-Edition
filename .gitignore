@@ -83,7 +83,12 @@ modlist.html
 !minecraft/config/mining_dims
 !minecraft/config/more_gems
 !minecraft/config/paxi
+!server/config/emerald_tools
+!server/config/EssentialGUI
 !server/config/gobber2
+!server/config/mining_dims
+!server/config/more_gems
+!server/config/paxi
 
 # Still ignore this directory
 #minecraft/config/betterdefaultbiomes/food
