@@ -1,0 +1,23 @@
+{
+    "name": "Tips & Tricks",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "In this section I will try to show some tips and tricks that may prove helpful."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Remove Enchantments",
+            "item": "minecraft:grindstone",
+            "text": "Use a Grindstone to pull enchantments off of books, tools, weapons, and armor."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Make a Map",
+            "item": "minecraft:map",
+            "text": "Since there are no minimap/map mods for 1.18 yet, make a Minecraft Map! After initializing the map, place it back into a crafting table surrounded by paper so you can see it zoomed out - this can be done four times. By making a map you will be able to find your way home!"
+        }
+    ]
+}

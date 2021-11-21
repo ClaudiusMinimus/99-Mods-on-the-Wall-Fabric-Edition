@@ -1,0 +1,17 @@
+{
+    "name": "Early Game",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "At this point 99 Mods plays a lot like a vanilla game, $(o)though with some great tools and weapons$(). Therefore, it would be wise to find a village as soon as possible for getting resources and villager trades going. I will link some good videos in the $(l:videos_early_game)Videos chapter$(/l) to help get started."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:iron_pickaxe",
+            "title": "Tools",
+            "text": "Once you get an Iron Pick try to get some gems from More Gems to make some really nice early game tools, weapons, and armor. Go to the $(l:https://www.curseforge.com/minecraft/mc-mods/more-gems-fabric)More Gems mod page$() to see the mod content, material durability, and much more!"
+        }
+    ]
+}
