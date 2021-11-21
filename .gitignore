@@ -26,7 +26,7 @@ server/dumps/*
 server/libraries*/*
 server/local/*
 server/logs/*
-server/mods/*
+server/mods*/*
 server/patchouli_books_*/*
 server/world/*
 server/world*
