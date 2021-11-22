@@ -9,6 +9,7 @@ minecraft/logs/*
 minecraft/mods*/*
 minecraft/mods
 minecraft/ModTranslations/*
+minecraft/not-enough-crashes/*
 minecraft/output/*
 minecraft/saves/*
 minecraft/shaderpacks/*
@@ -43,6 +44,7 @@ minecraft/instance.cfg
 minecraft/instance.json
 minecraft/instance.cfg
 minecraft/ops.json
+minecraft/options.amecsapi.txt
 minecraft/options.txt
 minecraft/optionsof.txt
 minecraft/optionsshaders.txt
@@ -83,12 +85,14 @@ modlist.html
 !minecraft/config/mining_dims
 !minecraft/config/more_gems
 !minecraft/config/paxi
+!minecraft/config/treeaxe
 !server/config/emerald_tools
 !server/config/EssentialGUI
 !server/config/gobber2
 !server/config/mining_dims
 !server/config/more_gems
 !server/config/paxi
+!server/config/treeaxe
 
 # Still ignore this directory
 #minecraft/config/betterdefaultbiomes/food
