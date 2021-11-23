@@ -8,7 +8,7 @@
 	   Sharpening Gem
 	   ********
 	*/
-	"enableSharpeningGem": false,
+	"enableSharpeningGem": true,
 	"sharpeningGemRepairAmount": 50,
 	/* ********
 	   Juju Settings
