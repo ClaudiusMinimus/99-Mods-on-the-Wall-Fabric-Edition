@@ -1,4 +1,4 @@
-version:2844
+version:2853
 autoJump:false
 autoSuggestions:true
 chatColors:true
@@ -17,27 +17,27 @@ fullscreen:false
 bobView:false
 toggleCrouch:false
 toggleSprint:false
-darkMojangStudiosBackground:false
+darkMojangStudiosBackground:true
 hideLightningFlashes:false
 mouseSensitivity:0.5
 fov:0.0
 screenEffectScale:1.0
 fovEffectScale:1.0
-gamma:0.5
+gamma:0.75
 renderDistance:20
 simulationDistance:12
 entityDistanceScaling:1.0
-guiScale:4
+guiScale:0
 particles:0
 maxFps:120
 difficulty:2
-graphicsMode:1
-ao:2
+graphicsMode:2
+ao:1
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","Fabric Mods","cullleaves/smartleaves","file/Compliance+64x+-+Beta+1.zip"]
-incompatibleResourcePacks:["cullleaves/smartleaves","file/Compliance+64x+-+Beta+1.zip"]
+resourcePacks:["vanilla","Fabric Mods","cullleaves/smartleaves","canvas/canvas_default","canvas/canvas_extras","file/Misa_1.17e.zip"]
+incompatibleResourcePacks:["cullleaves/smartleaves","file/Misa_1.17e.zip"]
 lastServer:
 lang:en_us
 soundDevice:TU104 HD Audio Controller Digital Stereo (HDMI 2)
@@ -72,6 +72,7 @@ joinedFirstServer:true
 hideBundleTutorial:false
 syncChunkWrites:false
 showAutosaveIndicator:true
+allowServerListing:true
 soundCategory_master:1.0
 soundCategory_music:0.10915493
 soundCategory_record:1.0
