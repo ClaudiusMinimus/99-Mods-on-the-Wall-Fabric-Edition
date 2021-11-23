@@ -22,7 +22,7 @@
 	   ******************************
 	*/
 	"enableEmeraldSet": false,
-	"enableRubySet": true,
+	"enableRubySet": false,
 	"enableSteelSet": true,
 	"enableObsidianSet": true,
 	"enableCoppperSet": true,
