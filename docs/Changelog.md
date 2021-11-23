@@ -1,5 +1,32 @@
 # Change Log
 
+## 99 Mods Fabric Edition 1.18-0.18.2-Pre6
+
+Nov. 23, 2021
+
+- Mods Added:
+  - BountifulFabric-2.0.1
+  - dark-enchanting-0.6.0-1.18
+  - Kambrik-3.0.0
+  - mousewheelie-1.7.5+mc1.18-pre5
+  - reinforced-barrels-1.0.4+1.18
+  - reinforced-chests-1.0.4+1.18
+  - reinforced-shulker-boxes-1.1.3+1.18
+  - TreeAxe-Fabric-1.18-pre6-1.1.20
+  - wmitaf-fabric-mc1.18-2.1.4
+- Mods Updated:
+  - fabric-api-0.42.9+1.18
+  - fabric-language-kotlin-1.7.0+kotlin.1.6.0
+  - glassential-fabric-1.3.0
+  - MiningDimensions_Fabric-1.18-pre5-1.2.30
+  - Mo-Glass-1.5-MC1.18-pre6
+  - MobCatcher-Fabric-1.18-pre6-1.1.14
+  - ResourcefulTools-Fabric-1.18-pre6-1.2.23
+  - SimpleBackpack_Fabric-1.18-pre6-1.2.17
+  - TheVeggieWay_Fabric-1.18-pre6-1.2.20
+- Mods Removed:
+- Other Changes:
+  - Minecraft 1.18-pre6
 
 ## 99 Mods Fabric Edition 1.18-0.17.2-Pre5
 
