@@ -73,3 +73,5 @@ key.okzoomer.increase_zoom:key.keyboard.unknown
 key.okzoomer.reset_zoom:key.keyboard.unknown
 key.projectsavethepets.allowdamage:key.keyboard.left.shift
 key.storagebox.colon:key.keyboard.semicolon
+key.things.place_item:key.keyboard.j
+key.things.openenderchest:key.keyboard.g
