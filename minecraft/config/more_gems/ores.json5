@@ -96,21 +96,21 @@
 	"sapphireMaxLevelDeepslate": 0,
 	"sapphirePerChunkDeepslate": 12,
 	/* ***********************
-	   Ruby Ores
+	   Spinel Ores
 	   ***********************
 	*/
-	"rubyEnable": true,
-	"rubyVeinSize": 4,
-	"rubyMaxLevel": 10,
-	"rubyPerChunk": 12,
+	"spinelEnable": true,
+	"spinelVeinSize": 5,
+	"spinelMaxLevel": 20,
+	"spinelPerChunk": 12,
 	/* ***********************
-	   Deepslate Ruby Ores
+	   Deepslate Spinel Ores
 	   ***********************
 	*/
-	"rubyEnableDeepslate": true,
-	"rubyVeinSizeDeepslate": 4,
-	"rubyMaxLevelDeepslate": 0,
-	"rubyPerChunkDeepslate": 12,
+	"spinelEnableDeepslate": true,
+	"spinelVeinSizeDeepslate": 5,
+	"spinelMaxLevelDeepslate": 0,
+	"spinelPerChunkDeepslate": 12,
 	/* ***********************
 	   Carbonado Ores
 	   ***********************
