@@ -1,7 +1,7 @@
 {
     "name": "Known Issues",
-    "icon": "minecraft:writable_book",
-    "category": "patchouli:getting_started",
+    "icon": "minecraft:written_book",
+    "category": "patchouli:support",
     "pages": [
         {
             "type": "patchouli:text",

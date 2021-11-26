@@ -17,7 +17,13 @@
             "type": "patchouli:spotlight",
             "title": "Make a Map",
             "item": "minecraft:map",
-            "text": "Since there are no minimap/map mods for 1.18 yet, make a Minecraft Map! After initializing the map, place it back into a crafting table surrounded by paper so you can see it zoomed out - this can be done four times. By making a map you will be able to find your way home!"
+            "text": "Since there are no minimap/map mods for 1.18 yet, make a Minecraft Map! After initializing the map, place it back into a crafting table surrounded by paper so you can see it zoomed out - this can be done four times."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Make a Banner",
+            "item": "minecraft:blue_banner",
+            "text": "The next step is to make a banner and name it in an anvil. Once you have an initialized map, place the banner and right-click the map on the banner. Your map you will show the banner location and you can find your way home!"
         }
     ]
 }

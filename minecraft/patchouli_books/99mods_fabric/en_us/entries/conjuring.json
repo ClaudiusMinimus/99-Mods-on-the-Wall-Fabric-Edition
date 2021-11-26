@@ -1,21 +1,11 @@
 {
     "name": "Conjuring",
-    "icon": "minecraft:writable_book",
-    "category": "patchouli:getting_started",
+    "icon": "conjuring:conjurer",
+    "category": "patchouli:videos",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "At the time of this this release, the mod, Conjuring is in ALPHA, which means not everything is working and the Conjuring Enchiridion cannot be opened. I have included this $(l:https://www.youtube.com/watch?v=lpcCFRmsIsY)Conjuring Spotlight$(/l) video to make getting started much easier. This video is for 1.16.5, but it is much the same now. Also, REI for 1.18 has not been released, so here are some of the recipes you will need."
-        },
-        {
-            "type": "patchouli:spotlight",
-            "item": "conjuring:blackstone_pedestal",
-            "text": "The spotlight does not show the $(l:https://i.imgur.com/Sp1MESI.png)Blackstone Pedestal recipe$(/l), which is made in a crafting table using:$(li)Two - Polished Blackstone Stairs$(li)Two - Gilded Blackstone$(li)Three - Polished Blackstone Bricks"
-        },
-        {
-            "type": "patchouli:spotlight",
-            "item": "conjuring:soul_funnel",
-            "text": "The spotlight does not show the $(l:https://i.imgur.com/VYxM8Bt.png)Soul Funnel recipe$(/l), which is made in a Stonecutter using a block of Polished Blackstone."
+            "text": "This $(l:https://www.youtube.com/watch?v=lpcCFRmsIsY)Conjuring Spotlight$(/l) video to make getting started much easier. This video is for 1.16.5, but it is much the same now."
         }
     ]
 }

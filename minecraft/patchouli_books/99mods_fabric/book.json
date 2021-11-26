@@ -1,5 +1,5 @@
 {
     "name": "99 Mods on the Wall",
-    "landing_text": "$(playername), Welcome to 99 Mods on the Wall: Fabric Edition! This book should help you get started playing this pack. 99 Mods on the Wall uses Minecraft snapshots, so expect bugs!",
-    "version": 1
+    "landing_text": "$(playername), Welcome to 99 Mods on the Wall: Fabric Edition! This book should help you get started playing this pack. 99 Mods on the Wall uses several 1.17.1 mods, so expect bugs!",
+    "version": 2
 }

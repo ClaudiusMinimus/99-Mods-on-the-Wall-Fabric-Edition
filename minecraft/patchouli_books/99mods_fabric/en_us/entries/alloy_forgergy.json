@@ -1,0 +1,99 @@
+{
+    "name": "Alloy Forgery",
+    "icon": "alloy_forgery:deepslate_bricks_forge_controller",
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "image",
+            "title": "Alloy Forge",
+            "images": [
+                "99mods:images/conjuring/stonebrick_forge.png",
+                "99mods:images/conjuring/brick_forge.png",
+                "99mods:images/conjuring/deepslate_forge.png",
+                "99mods:images/conjuring/blackstone_forge.png",
+                "99mods:images/conjuring/endbrick_forge.png"
+            ],
+            "text": "This chapter is taken from the $(l:https://github.com/LordDeatHunter/Alloy-Forgery/wiki)Alloy Forgery wiki$(/l)."
+        },
+        {
+            "type": "text",
+            "title": "Forge Controllers",
+            "text": "You can currently make an Alloy Forge out of 5 materials: Bricks, Stone Bricks, Blackstone, Deepslate, and End Stone."
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name": "Forge Construction",
+            "text": "The visualization placement is currently broken.",
+            "multiblock": {
+                "pattern": [
+                    [ " S ", "S S", " S "], 
+                    [ " S ", "S0S", " C "], 
+                    [ "SSS", "SSS", "SSS"]
+                ],
+                "mapping": {
+                    "S": "minecraft:deepslate_bricks",
+                    "C": "alloy_forgery:deepslate_bricks_forge_controller[facing=east,lit=true]"
+                },
+                "symmetrical": true
+            }
+        },
+        {
+            "type": "crafting",
+            "title": "Forge Controller Recipe",
+            "recipe": "alloy_forgery:deepslate_bricks_forge",
+            "text": "The Forge Controller Recipe is crafted from the respective material of the forge tier with a blast furnace in the middle."
+        },
+        {
+            "type": "text",
+            "title": "Tiers and Materials",
+            "text": "Tiers are important for making recipes harder to make, or to make them more efficient. Currently as of 1.3.0 of Alloy Forgery there are 5 different materials for forges:$(li)Bricks and Stone Bricks, which are used for Tier 1 Alloy Forge.$(li)Deepslate and Blackstone, which are used for Tier 2 Alloy Forge.$(li)Endstone, which is used for a Tier 3 Alloy Forge."
+        },
+        {
+            "type": "text",
+            "title": "Fuels",
+            "text": "A forge can by default be fueled by vanilla materials. Currently they accept the following list:$(li)Coal and Blocks of Coal$(li)Charcoal$(li)Blaze Rods$(li)Lava Bucket"
+        },
+        {
+            "type": "image",
+            "images": ["99mods:images/conjuring/alloy_forge_io.png"]
+        },
+        {
+            "type": "text",
+            "title": "Automation",
+            "text": "You can use hoppers to automate alloy forging.$(br)  1. Fuel$(br)  2. Ingredients$(br)  3. Outputs$(br2)The controller gives a comparator output, which is very useful for locking the input hopper."
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name": "Automation Construction",
+            "text": "The visualization placement is currently broken.",
+            "multiblock": {
+                "pattern": [
+                    [ "  1 ", "    ", " G  ", "S0S ", " G  "], 
+                    [ "4TY2", "6  3", "HG 3", "FCSW", " G  "], 
+                    [ "YYYY", "Y  Y", "SSSY", "SSSY", "SSS "]
+                ],
+                "mapping": {
+                    "G": "minecraft:glass",
+                    "F": "alloy_forgery:deepslate_bricks_forge_controller[lit=true]",
+                    "S": "minecraft:deepslate_bricks",
+                    "C": "minecraft:comparator",
+                    "Y": "minecraft:yellow_wool",
+                    "T": "minecraft:redstone_wall_torch[facing=north,lit=false]",
+                    "W": "minecraft:redstone_wall_torch[facing=south,lit=true]",
+                    "H": "minecraft:hopper[facing=east]",
+                    "1": "minecraft:redstone_wire[east=none,north=side,power=15,south=side]",
+                    "2": "minecraft:redstone_wire[east=side,north=up,power=15,south=none,west=none]",
+                    "3": "minecraft:redstone_wire[east=side,north=none,power=15,south=none,west=side]",
+                    "4": "minecraft:redstone_wire[east=side,north=none,power=0,south=side,west=none]",
+                    "5": "minecraft:redstone_wire[east=side,north=side,power=0,south=none,west=none]",
+                    "6": "minecraft:redstone_wire[east=side,north=none,power=0,south=none,west=side]"
+                },
+                "symmetrical": false
+            }
+        },
+        {
+            "type": "text",
+            "text": "This example shows a Forge made using Deepslate ($(o)glass blocks so you can see the comparator inside the chamber$()). The yellow wool blocks could be anything.$(br2)This setup locks the hopper when once the prescribed number of ores/blocks enter the Forge Controller. Once processed, the hopper is unlocked to receive the next batch."
+        }
+    ]
+}

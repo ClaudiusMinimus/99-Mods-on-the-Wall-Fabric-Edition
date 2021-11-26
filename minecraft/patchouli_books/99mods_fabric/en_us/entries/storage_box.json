@@ -1,0 +1,16 @@
+{
+    "name": "StorageBox",
+    "icon": "storagebox:storagebox",
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "storagebox:storagebox",
+            "text": "A storage item that can hold an almost infinite number of items, similar to Dank Storage, but only for one item. There are significant differences:$(li)When empty, you can right-click to open a simple GUI to add an item.$(li)The StorageBox takes on the look of the item stored."
+        },{
+            "type": "patchouli:text",
+            "title": "Hot Keys",
+            "text": "$(li)Put in Storage Box or put in Storage Box from Container: Colon key (Default)$(li)Put out from Storage Box or put out from Storage Box and put in Container: Colon key(Default) + Shift$(li)Put out from Storage Box and drop: Colon key(Default) + Shift + Ctrl$(li)Switch Auto Collect: Colon key(Default) + Ctrl"
+        }
+    ]
+}

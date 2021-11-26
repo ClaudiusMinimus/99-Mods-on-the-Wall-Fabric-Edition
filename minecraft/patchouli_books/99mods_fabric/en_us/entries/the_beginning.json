@@ -1,6 +1,6 @@
 {
     "name": "Early Game",
-    "icon": "minecraft:writable_book",
+    "icon": "minecraft:grass_block",
     "category": "patchouli:getting_started",
     "pages": [
         {
@@ -11,7 +11,7 @@
             "type": "patchouli:spotlight",
             "item": "minecraft:iron_pickaxe",
             "title": "Tools",
-            "text": "Once you get an Iron Pick try to get some gems from More Gems to make some really nice early game tools, weapons, and armor. Go to the $(l:https://www.curseforge.com/minecraft/mc-mods/more-gems-fabric)More Gems mod page$() to see the mod content, material durability, and much more!"
+            "text": "Once you get an iron or copper pickaxe try to get some gems from More Gems to make some really nice early game tools, weapons, and armor. Go to the $(l:https://www.curseforge.com/minecraft/mc-mods/more-gems-fabric)More Gems mod page$() to see the mod content, material durability, and much more!"
         }
     ]
 }

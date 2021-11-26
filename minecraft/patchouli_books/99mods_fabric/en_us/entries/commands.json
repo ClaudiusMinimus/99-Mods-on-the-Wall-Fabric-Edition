@@ -1,6 +1,6 @@
 {
     "name": "Commands",
-    "icon": "minecraft:writable_book",
+    "icon": "minecraft:command_block",
     "category": "patchouli:getting_started",
     "pages": [
         {
