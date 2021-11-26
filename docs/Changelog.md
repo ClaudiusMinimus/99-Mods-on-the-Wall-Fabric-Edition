@@ -1,5 +1,41 @@
 # Change Log
 
+## 99 Mods Fabric Edition 1.18-RC3
+
+Nov. 26, 2021
+
+- Mods Added:
+  - CustomWindowTitle-Fabric-1.17.1+v1.1.1
+  - cyanide-fabric-1.18-pre6-2.0.2
+  - Mesh-0.18.0-alpha
+  - redstone-bits-1.6.0+fabric-mc1.18
+  - repurposed_structures_fabric-3.0.0+1.18-pre5
+  - RoughlyEnoughItems-fabric-7.0.339
+  - things-0.2.7+1.18
+  - wraith-alloy-forgery-2.0.6+1.18
+- Mods Updated:
+  - camerautils-1.18-rc1-1.0.0
+  - conjuring-1.0.12+1.18
+  - fabric-api-0.43.1+1.18
+  - Gobber2-Fabric-1.18-rc1-2.5.48
+  - InventoryProfilesNext-fabric-1.18-1.1.8
+  - light-overlay-6.0.3
+  - MiningDimensions_Fabric-1.18-rc1-1.2.31
+  - Mo-Glass-1.5-MC1.18-rc3
+  - MoreGems-Fabric-1.18-rc1-1.3.44
+  - notenoughcrashes-4.1.2+1.18-rc3-fabric
+  - owo-lib-0.3.7+1.18
+  - Patchouli-1.17.1-58-FABRIC
+  - SimpleBackpack_Fabric-1.18-rc3-1.2.19
+  - tomsstorage-1.1.18
+  - TreeAxe-Fabric-1.18-rc3-1.1.21
+  - youre-in-grave-danger-1.2.2
+- Mods Removed:
+- Other Changes:
+  - Minecraft 1.18rc3
+  - Major update to 99 Mods book
+  - Added 99 Mods banner for title page
+
 ## 99 Mods Fabric Edition 1.18-0.18.2-Pre6
 
 Nov. 23, 2021
