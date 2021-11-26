@@ -78,6 +78,7 @@ instance.cfg
 modlist.html
 
 # Do not ignore these directories
+!minecraft/config/customwindowtitle
 !minecraft/config/defaultsettings
 !minecraft/config/emerald_tools
 !minecraft/config/EssentialGUI
@@ -100,6 +101,7 @@ modlist.html
 # Do not ignore these files
 !minecraft/config/betterrecipebook.toml
 !minecraft/config/conjuring.json5
+!minecraft/config/customwindowtitle-client.toml
 !minecraft/config/harvest.json
 !server/config/conjuring.json5
 !server/config/harvest.json
