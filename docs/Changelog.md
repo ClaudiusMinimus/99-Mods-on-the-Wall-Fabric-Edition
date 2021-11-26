@@ -1,6 +1,6 @@
 # Change Log
 
-## 99 Mods Fabric Edition 1.18-RC3
+## 99 Mods Fabric Edition 1.18-RC3-0.19.0
 
 Nov. 26, 2021
 
@@ -36,7 +36,7 @@ Nov. 26, 2021
   - Major update to 99 Mods book
   - Added 99 Mods banner for title page
 
-## 99 Mods Fabric Edition 1.18-0.18.2-Pre6
+## 99 Mods Fabric Edition 1.18-Pre6-0.18.2
 
 Nov. 23, 2021
 
