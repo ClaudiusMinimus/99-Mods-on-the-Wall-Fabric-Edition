@@ -17,6 +17,7 @@ Nov. 27, 2021
 - Mods Removed:
 - Other Changes:
   - Ruby and Emerald tool, weapons, and armor are enabled
+  - Fixed issue with Ruby Hammer and Excavator being crafted with two sticks
 
 ## 99 Mods Fabric Edition 1.18-RC3-0.19.0
 
