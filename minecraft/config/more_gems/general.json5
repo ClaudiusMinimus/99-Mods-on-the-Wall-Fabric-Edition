@@ -46,6 +46,7 @@
 	"enableBenevolence": true,
 	"enableMiningHelper": true,
 	"enableBound": true,
+	"enableAttracting": true,
 	/* ***************
 	   Enchantment Settings
 	   ***************
@@ -64,6 +65,8 @@
 	"floatingBaseDuration": 80,
 	"minngHelperVertical": 2,
 	"minerHelperHoriz": 4,
+	"attractingBaseHorizontalRadius": 6,
+	"boundReturnAll": false,
 	/* ********************************
 	   
 	   ******************************
