@@ -1,5 +1,23 @@
 # Change Log
 
+## 99 Mods Fabric Edition 1.18-RC3-0.20.0
+
+Nov. 27, 2021
+
+- Mods Added:
+  - Adorn-3.0.0-rc.1+1.18-rc3-fabric
+  - architects-palette-fabric-1.3-1.18-rc3
+  - giftit-1.5.0+mc1.18-rc3
+- Mods Updated:
+  - consistency_plus-fabric-0.4.2+RC.1+1.17
+  - EmeraldTools-Fabric-1.18-rc3-1.3.27
+  - MoreGems-Fabric-1.18-rc3-1.3.47
+  - mousewheelie-1.8.0+mc1.18-pre5
+  - repurposed_structures_fabric-3.0.2+1.18-rc3
+- Mods Removed:
+- Other Changes:
+  - Ruby and Emerald tool, weapons, and armor are enabled
+
 ## 99 Mods Fabric Edition 1.18-RC3-0.19.0
 
 Nov. 26, 2021
