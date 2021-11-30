@@ -38,6 +38,8 @@ build/*server.zip
 builds/server*.zip
 build/99mtw-1.16.5-*.zip
 minecraft/ds_private_storage.json
+minecraft/keys.txt
+minecraft/polymer-resourcepack.zip
 minecraft/servers.dat
 minecraft/XaeroWaypoints*
 minecraft/instance.cfg
@@ -87,6 +89,7 @@ modlist.html
 !minecraft/config/more_gems
 !minecraft/config/paxi
 !minecraft/config/treeaxe
+!minecraft/config/yosbr
 !server/config/emerald_tools
 !server/config/EssentialGUI
 !server/config/gobber2
@@ -94,6 +97,7 @@ modlist.html
 !server/config/more_gems
 !server/config/paxi
 !server/config/treeaxe
+!server/config/yosbr
 
 # Still ignore this directory
 #minecraft/config/betterdefaultbiomes/food
@@ -103,7 +107,9 @@ modlist.html
 !minecraft/config/conjuring.json5
 !minecraft/config/customwindowtitle-client.toml
 !minecraft/config/harvest.json
+!minecraft/config/universal-graves.json
 !server/config/conjuring.json5
 !server/config/harvest.json
+!server/config/universal-graves.json
 !server/server.properties
 !mmc-pack.json
