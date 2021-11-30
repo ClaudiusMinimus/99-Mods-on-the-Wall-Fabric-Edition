@@ -344,6 +344,9 @@
 	"summonerAttackBonus": 10.0,
 	"summonerMovementBonus": 0.6,
 	"summonerArmorBonus": 20.0,
+	"enableRingEnchanting": true,
+	"enableStaffEnchanting": true,
+	"enableMedallionEnchanting": true,
 	/* 
 	   
 	   ***********************
