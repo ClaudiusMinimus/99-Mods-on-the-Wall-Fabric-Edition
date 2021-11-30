@@ -1,5 +1,34 @@
 # Change Log
 
+## 99 Mods Fabric Edition 1.18-1.1.1
+
+Nov. 30, 2021
+
+- Mods Added:
+- Mods Updated:
+- Mods Removed:
+- Other Changes:
+  - Fixed a couple of configs
+
+## 99 Mods Fabric Edition 1.18-1.1.0
+
+Nov. 30, 2021
+
+- Mods Added:
+  - Xaeros_Minimap_21.22.3_Fabric_1.18
+  - XaerosWorldMap_1.18.4_Fabric_1.18
+- Mods Updated:
+  - camerautils-1.18-1.0.0
+  - consistency_plus-0.4.2+1.17-fabric
+  - craftingpad-1.18-rc4-1.0.7
+  - CraftPresence-Fabric-1.18-Release-1.8.8
+  - lambdynamiclights-2.1.0+1.17
+  - Mo-Glass-1.5-MC1.18
+  - The_Graveyard_1.1_(FABRIC)_for_1.18
+- Mods Removed:
+  - repurposed_structures_fabric-3.0.2+1.18-rc3 (will add back after fix)
+- Other Changes:
+
 ## 99 Mods Fabric Edition 1.18-RC4-0.21.0
 
 Nov. 29, 2021
