@@ -1,5 +1,34 @@
 # Change Log
 
+## 99 Mods Fabric Edition 1.18-RC4-0.21.0
+
+Nov. 29, 2021
+
+- Mods Added:
+  - All+Arrows+Infinity+Fix-FABRIC-1.0.0-MC-1.18-RC4
+  - graves-1.2.1+1.18
+  - The_Graveyard_1.0_(FABRIC)_for_1.18
+  - wraith-waystones-2.3.0
+- Mods Updated:
+  - blockus-2.3.2+1.18-rc3
+  - EmeraldTools-Fabric-1.18-rc4-1.3.28
+  - essential_commands-0.17.1-mc1.18-rc3
+  - Gobber2-Fabric-1.18-rc4-2.5.49
+  - MiningDimensions_Fabric-1.18-rc4-1.2.32
+  - MobCatcher-Fabric-1.18-rc4-1.1.15
+  - MoreGems-Fabric-1.18-rc4-1.3.48
+  - repurposed_structures_fabric-3.1.1+1.18-rc3
+  - ResourcefulTools-Fabric-1.18-rc4-1.2.24
+  - SimpleBackpack_Fabric-1.18-rc4-1.2.21
+  - TheVeggieWay_Fabric-1.18-rc4-1.2.21
+  - trapexpansion-1.3.3+fabric-mc1.18
+  - TreeAxe-Fabric-1.18-rc4-1.1.22
+  - WardBlocks-Fabric-1.18-rc4-1.2.17
+- Mods Removed:
+  - youre-in-grave-danger-1.2.2
+- Other Changes:
+  - Minecraft 1.18rc4
+
 ## 99 Mods Fabric Edition 1.18-RC3-0.20.0
 
 Nov. 27, 2021
