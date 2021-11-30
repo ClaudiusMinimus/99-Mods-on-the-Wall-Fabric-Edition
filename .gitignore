@@ -103,6 +103,7 @@ modlist.html
 #minecraft/config/betterdefaultbiomes/food
 
 # Do not ignore these files
+!minecraft/config/xaerominimap.txt
 !minecraft/config/betterrecipebook.toml
 !minecraft/config/conjuring.json5
 !minecraft/config/customwindowtitle-client.toml
