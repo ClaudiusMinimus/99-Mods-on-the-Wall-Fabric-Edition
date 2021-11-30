@@ -2,10 +2,17 @@
     "name": "Early Game",
     "icon": "minecraft:grass_block",
     "category": "patchouli:getting_started",
+    "sortnum": 0,
     "pages": [
         {
             "type": "patchouli:text",
             "text": "At this point 99 Mods plays a lot like a vanilla game, $(o)though with some great tools and weapons$(). Therefore, it would be wise to find a village as soon as possible for getting resources and villager trades going. I will link some good videos in the $(l:videos_early_game)Videos chapter$(/l) to help get started."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "treeaxe:wooden_treeaxe",
+            "title": "Wooden Treeaxe",
+            "text": "Make a Wooden Treeaxe as soon as you cut down your first tree! The Wooden Treeaxe wil attempt to bring down the entire tree when the lowest block is broken."
         },
         {
             "type": "patchouli:spotlight",

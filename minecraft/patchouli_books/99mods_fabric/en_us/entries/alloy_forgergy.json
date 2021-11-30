@@ -2,6 +2,7 @@
     "name": "Alloy Forgery",
     "icon": "alloy_forgery:deepslate_bricks_forge_controller",
     "category": "patchouli:getting_started",
+    "sortnum": 3,
     "pages": [
         {
             "type": "image",

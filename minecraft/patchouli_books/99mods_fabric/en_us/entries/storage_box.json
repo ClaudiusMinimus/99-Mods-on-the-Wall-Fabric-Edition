@@ -2,6 +2,7 @@
     "name": "StorageBox",
     "icon": "storagebox:storagebox",
     "category": "patchouli:getting_started",
+    "sortnum": 2,
     "pages": [
         {
             "type": "patchouli:spotlight",

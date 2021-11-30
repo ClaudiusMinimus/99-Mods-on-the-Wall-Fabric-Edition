@@ -2,6 +2,7 @@
     "name": "Tips & Tricks",
     "icon": "minecraft:writable_book",
     "category": "patchouli:getting_started",
+    "sortnum": 4,
     "pages": [
         {
             "type": "patchouli:text",
