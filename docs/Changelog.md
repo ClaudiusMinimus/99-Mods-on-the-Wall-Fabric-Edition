@@ -1,5 +1,35 @@
 # Change Log
 
+## 99 Mods Fabric Edition 1.18-1.2.2
+
+Nov. 30, 2021
+
+Normally I update modpacks once a week. However, many of these mods were pre-release version and have been updated to release, so I am doing my best to update all prerelease and alpha mods as soon as I can. My next priority is to get the server install working.
+
+- Mods Added:
+  - Clumps-fabric-1.18-8.0.1
+  - goblin-traders-1.4.0
+  - repurposed_structures_fabric-3.1.3+1.18.0
+- Mods Updated:
+  - All+Arrows+Infinity+Fix-FABRIC-1.0.0-MC-1.18
+  - blockus-2.3.3+1.18
+  - EmeraldTools-Fabric-1.18.0-1.3.29
+  - geckolib-fabric-1.18-3.0.21
+  - Gobber2-Fabric-1.18.0-2.5.50
+  - GreaterEye-Fabric-1.18.0-1.3.15
+  - MoreGems-Fabric-1.18.0-1.3.49
+  - ResourcefulTools-Fabric-1.18.0-1.2.25
+  - SimpleBackpack_Fabric-1.18.0-1.2.22
+  - The_Graveyard_1.1_(FABRIC)_for_1.18
+  - TheVeggieWay_Fabric-1.18.0-1.2.22
+  - TreeAxe-Fabric-1.18.0-1.1.23
+  - trinkets-3.1.0
+  - wraith-waystones-2.3.1
+- Mods Removed:
+- Other Changes:
+  - Updated Fabric 0.12.8
+  - Fixed a few more configs
+
 ## 99 Mods Fabric Edition 1.18-1.1.1
 
 Nov. 30, 2021
