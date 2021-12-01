@@ -1,5 +1,35 @@
 # Change Log
 
+## 99 Mods Fabric Edition 1.18-1.3.0
+
+Dec. 01, 2021
+
+- Mods Added:
+  - AdditionalAdditions-3.0.0
+  - fancymenu_fabric_2.4.2_MC_1.18
+  - konkrete_fabric_1.3.0-1_MC_1.18
+  - structure-tools-1.0.6
+- Mods Updated:
+  - architectury-3.1.44
+  - cloth-config-6.0.43-fabric
+  - EditSign-1.18-2.2.6
+  - goblin-traders-1.4.1
+  - grizzlybear-1.18-1.2.0
+  - InventoryProfilesNext-fabric-1.18-1.1.9
+  - MiningDimensions_Fabric-1.18.0-1.2.33
+  - MobCatcher-Fabric-1.18.0-1.1.16
+  - OverpoweredPickles-Fabric-1.18.0-1.3.5
+  - Patchouli-1.18-60-FABRIC
+  - quartz-elevator-2.0.0+1.18
+  - reinforced-barrels-1.0.5+1.18
+  - reinforced-chests-1.0.5+1.18
+  - reinforced-shulker-boxes-1.1.4+1.18
+  - RoughlyEnoughItems-7.0.341
+  - WardBlocks-Fabric-1.18.0-1.2.18
+- Mods Removed:
+  - CustomWindowTitle-Fabric-1.17.1+v1.1.1 (replaced with Fancy Menu)
+- Other Changes:
+
 ## 99 Mods Fabric Edition 1.18-1.2.2
 
 Nov. 30, 2021
