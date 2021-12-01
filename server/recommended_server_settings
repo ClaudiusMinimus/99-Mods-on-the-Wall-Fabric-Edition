@@ -1,0 +1,54 @@
+#Minecraft server properties
+#Wed Dec 01 12:49:49 MST 2021
+allow-flight=true
+allow-nether=true
+broadcast-console-to-ops=true
+broadcast-rcon-to-ops=true
+difficulty=hard
+enable-command-block=false
+enable-jmx-monitoring=false
+enable-query=false
+enable-rcon=false
+enable-status=true
+enforce-whitelist=true
+entity-broadcast-range-percentage=100
+force-gamemode=false
+function-permission-level=2
+gamemode=survival
+hardcore=false
+hide-online-players=false
+level-name=world
+#This is a pretty cool seed by spawn
+level-seed=-2454697995731187177
+max-players=20
+#default 60000 to disable use -1
+max-tick-time=-1
+max-world-size=29999984
+motd=\u00A73 99 Mods on the Wall\: Fabric Edition \u00A76\n>>>> Ver. 1.18.-1.3.0<<<<Welcome to our offical server\!
+network-compression-threshold=256
+online-mode=true
+op-permission-level=4
+player-idle-timeout=0
+prevent-proxy-connections=false
+pvp=false
+query.port=25565
+rate-limit=0
+rcon.password=
+rcon.port=25575
+require-resource-pack=false
+resource-pack-prompt=
+resource-pack-sha1=
+resource-pack=
+server-ip=0.0.0.0
+server-port=25565
+simulation-distance=10
+spawn-animals=true
+spawn-monsters=true
+spawn-npcs=true
+#default 16 Determines the side length of the square spawn protection area as 2x+1. Setting this to 0 disables the spawn protection. A value of 1 protects a 3×3 square centered on the spawn point. 2 protects 5×5, 3 protects 7×7, etc. This option is not generated on the first server start and appears when the first player joins. If there are no ops set on the server, the spawn protection is disabled automatically as well. 
+spawn-protection=32
+sync-chunk-writes=true
+text-filtering-config=
+use-native-transport=true
+view-distance=10
+white-list=false
