@@ -4,7 +4,7 @@
 
 Nov. 30, 2021
 
-Normally I update modpacks once a week. However, many of these mods were pre-release version and have been updated to release, so I am doing my best to update all prerelease and alpha mods as soon as I can. My next priority is to get the server install working.
+Normally I update modpacks once a week. However, many of these mods were pre-release versions and have been updated to release, so I am doing my best to update all prerelease and alpha mods as soon as I can. My next priority is to get the server install working.
 
 - Mods Added:
   - Clumps-fabric-1.18-8.0.1
