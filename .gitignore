@@ -69,6 +69,7 @@ server/usernamecache.json
 server/*.tar.xz
 server/usercache.json
 minecraft/knownkeys.txt
+99mtw-fabric-*-server.zip
 instance.cfg
 *.log
 *.code-workspace
