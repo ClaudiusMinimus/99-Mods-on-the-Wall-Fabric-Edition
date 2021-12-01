@@ -46,7 +46,7 @@ smoothDots:true
 worldMap:true
 terrainDepth:true
 terrainSlopes:2
-mainEntityAs:0
+mainEntityAs:2
 blockTransparency:true
 waypointOpacityIngame:80
 waypointOpacityMap:90
@@ -94,5 +94,5 @@ interface:dummy:0:36:true:false:false:false
 interface:dummy:0:10000:true:false:false:false
 interface:dummy:0:0:false:false:true:false
 interface:dummy:0:36:true:false:false:false
-interface:gui.xaero_minimap:1:68:false:false:false:true
+interface:gui.xaero_minimap:2:105:false:false:false:true
 #WAYPOINTS HAVE BEEN MOVED TO /XaeroWaypoints
