@@ -109,8 +109,10 @@ modlist.html
 !minecraft/config/customwindowtitle-client.toml
 !minecraft/config/harvest.json
 !minecraft/config/universal-graves.json
+!minecraft/config/xp_storage.json5
 !server/config/conjuring.json5
 !server/config/harvest.json
 !server/config/universal-graves.json
+!server/config/xp_storage.json5
 !server/server.properties
 !mmc-pack.json
