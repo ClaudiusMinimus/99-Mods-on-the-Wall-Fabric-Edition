@@ -21,7 +21,7 @@
 	   Armors, Tools, & Weapons
 	   ******************************
 	*/
-	"enableEmeraldSet": false,
+	"enableEmeraldSet": true,
 	"enableRubySet": true,
 	"enableSteelSet": true,
 	"enableObsidianSet": true,

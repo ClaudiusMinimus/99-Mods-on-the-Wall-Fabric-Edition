@@ -1,11 +1,11 @@
 {
     "name": "Known Issues",
-    "icon": "minecraft:writable_book",
-    "category": "patchouli:getting_started",
+    "icon": "minecraft:written_book",
+    "category": "patchouli:support",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Here are a list of known issues that hopefully will be resolved soon. Links may show issue reports and possible workarounds.$(li)Dank Storage for the most part works, but is from 1.17.1, therefore is NOT supported at this time. Listed are some Dank Storage issues:$(li2)$(l:https://github.com/Tfarcenim/Dank-Storage/issues/142)Dank Storage Dock$(/l) can crash the game."
+            "text": "Here are a list of known issues that hopefully will be resolved soon. Links may show issue reports and possible workarounds.$(li)Dank Storage for the most part works, but is from 1.17.1, therefore is NOT supported at this time. Listed are some Dank Storage issues:$(li2)$(l:https://github.com/Tfarcenim/Dank-Storage/issues/142)Dank Storage Dock$(/l) can crash the game. I have removed Dank Storage for now, but know it can be used with caution."
         },{
             "type": "patchouli:text",
             "text": "$(li2)Empty any dank before upgrading, otherwise you will lose the contents.$(li2)Placing a liquid with a dank in your inventory may crash the game.$(li)Patchouli (also from 1.17.1) icon can be broken. For example this book icon is broken as is the Entry Index icon."

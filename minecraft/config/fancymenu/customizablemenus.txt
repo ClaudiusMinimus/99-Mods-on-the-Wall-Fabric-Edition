@@ -1,14 +1,14 @@
 type = customizablemenus
 
-net.minecraft.client.gui.screen.MultiplayerScreen {
+net.minecraft.class_525 {
 }
 
-net.minecraft.client.gui.screen.CreateWorldScreen {
+net.minecraft.class_526 {
 }
 
-net.minecraft.client.gui.screen.WorldSelectionScreen {
+net.minecraft.class_442 {
 }
 
-net.minecraft.client.gui.screen.MainMenuScreen {
+net.minecraft.class_500 {
 }
 

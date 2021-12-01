@@ -5,11 +5,12 @@
 	*/
 	"gembagEnable": true,
 	/* ********
-	   Sharpening Gem
+	   Sharpening Gems
 	   ********
 	*/
-	"enableSharpeningGem": false,
+	"enableSharpeningGem": true,
 	"sharpeningGemRepairAmount": 50,
+	"sharpeningGemGreaterRepairAmount": 100,
 	/* ********
 	   Juju Settings
 	   ********
@@ -44,6 +45,8 @@
 	"enableLavaView": true,
 	"enableBenevolence": true,
 	"enableMiningHelper": true,
+	"enableBound": true,
+	"enableAttracting": true,
 	/* ***************
 	   Enchantment Settings
 	   ***************
@@ -62,10 +65,13 @@
 	"floatingBaseDuration": 80,
 	"minngHelperVertical": 2,
 	"minerHelperHoriz": 4,
+	"attractingBaseHorizontalRadius": 6,
+	"boundReturnAll": false,
 	/* ********************************
 	   
 	   ******************************
-	   Bows, Paxels, Hammers, & Excavators
+	   Enable/disable extra tools by type
+	   - bows, paxels, hammers, & excavators
 	   ********************************
 	*/
 	"enableExtraTools": true,
@@ -73,6 +79,23 @@
 	"enableHammers": true,
 	"enableExcavators": true,
 	"enablePaxels": true,
+	/* ********************************
+	   
+	   ******************************
+	   Enable/disable sets by material
+	   - armor, tools, & weapons
+	   ********************************
+	*/
+	"enableCitrineSet": true,
+	"enableTourmalineSet": true,
+	"enableKunziteSet": true,
+	"enableTopazSet": true,
+	"enableAlexandriteSet": true,
+	"enableCorundumSet": true,
+	"enableSapphireSet": true,
+	"enableSpinelSet": true,
+	"enableCarbonadoSet": true,
+	"enableMoissaniteSet": true,
 	/* 
 	   
 	   
@@ -142,29 +165,6 @@
 	"kunziteArmorEnchantability": 9,
 	"kunziteToughness": 0.0,
 	"kunziteKnockbackResistance": 0.0,
-	/* 
-	   
-	   
-	   ******************************
-	   EMERALD TOOL MATERIAL
-	   ******************************
-	*/
-	"emeraldDurability": 1170,
-	"emeraldMiningSpeed": 8.0,
-	"emeraldAttackDamage": 3.0,
-	"emeraldMiningLevel": 3,
-	"emeraldEnchantability": 10,
-	/* 
-	   
-	   
-	   ******************************
-	   EMERALD ARMOR MATERIAL
-	   ******************************
-	*/
-	"emeraldDurabilityMultiplier": 26,
-	"emeraldArmorEnchantability": 12,
-	"emeraldToughness": 2.0,
-	"emeraldKnockbackResistance": 0.0,
 	/* 
 	   
 	   
@@ -261,25 +261,25 @@
 	   
 	   
 	   ******************************
-	   RUBY TOOL MATERIAL
+	   SPINEL TOOL MATERIAL
 	   ******************************
 	*/
-	"rubyDurability": 1404,
-	"rubyMiningSpeed": 6.0,
-	"rubyAttackDamage": 2.0,
-	"rubyMiningLevel": 3,
-	"rubyEnchantability": 14,
+	"spinelDurability": 1404,
+	"spinelMiningSpeed": 6.0,
+	"spinelAttackDamage": 2.0,
+	"spinelMiningLevel": 3,
+	"spinelEnchantability": 14,
 	/* 
 	   
 	   
 	   ******************************
-	   RUBY ARMOR MATERIAL
+	   SPINEL ARMOR MATERIAL
 	   ******************************
 	*/
-	"rubyDurabilityMultiplier": 30,
-	"rubyArmorEnchantability": 9,
-	"rubyToughness": 0.5,
-	"rubyKnockbackResistance": 0.0,
+	"spinelDurabilityMultiplier": 30,
+	"spinelArmorEnchantability": 9,
+	"spinelToughness": 0.5,
+	"spinelKnockbackResistance": 0.0,
 	/* 
 	   
 	   
