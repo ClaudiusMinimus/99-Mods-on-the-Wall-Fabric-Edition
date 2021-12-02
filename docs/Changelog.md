@@ -1,5 +1,33 @@
 # Change Log
 
+## 99 Mods Fabric Edition 1.18-1.4.0
+
+At this point I feel the mod selections is very good. There are only a few mods I am waiting for, then I will stop adding mods.
+
+Dec. 02, 2021
+
+- Mods Added:
+  - balm-fabric-2.0.0+0
+  - craftingtweaks-fabric-1.18-13.0.0
+  - justenoughkeys-0.4.1-fabric
+  - kubejs-fabric-1800.4.0-build.195
+  - LargeFluidTank-18.0.399-fabric
+  - libblockattributes-all-0.10.0
+  - mythic-mounts-3.0
+  - rhino-fabric-1800.1.6-build.78
+- Mods Updated:
+  - appleskin-fabric-mc1.18-2.2.0
+  - architectury-3.1.45
+  - EditSign-1.18-2.2.5
+  - EssentialGUI-1.7+1.18
+  - Mesh-0.19.0-alpha
+  - owo-lib-0.3.8+1.18
+  - RoughlyEnoughItems-7.0.342
+- Mods Removed:
+  - okzoomer-5.0.0-beta.2+1.17 (Advanced zoom features in Camera Utils, so okzoomer is not needed)
+  - notenoughcrashes-4.1.2+1.18-rc3-fabric (errors interferring with other mods)
+- Other Changes:
+
 ## 99 Mods Fabric Edition 1.18-1.3.0
 
 Dec. 01, 2021
@@ -292,14 +320,14 @@ Nov. 20, 2021
 Nov. 7, 2021
 
 - Mods Added:
-  - extshape-1.3.0-mc1.17+.jar
-  - MoEnchantments-2.0.0.jar
-  - Paxi-Fabric-1.17-1.2.2.jar
+  - extshape-1.3.0-mc1.17+
+  - MoEnchantments-2.0.0
+  - Paxi-Fabric-1.17-1.2.2
 - Mods Updated:
-  - Gobber2-Fabric-1.18-21w44a-2.5.35.jar
-  - MoreGems-Fabric-1.18-21w44a-1.3.28.jar
-  - ResourcefulTools-Fabric-1.18-21w44a-1.2.15.jar
-  - YungsApi-1.17-Fabric-19.jar
+  - Gobber2-Fabric-1.18-21w44a-2.5.35
+  - MoreGems-Fabric-1.18-21w44a-1.3.28
+  - ResourcefulTools-Fabric-1.18-21w44a-1.2.15
+  - YungsApi-1.17-Fabric-19
 - Mods Removed:
   - blockus-2.3.0+21w43a (conflicted with Dank Storage, will add again when fixed)
 - Other Changes:
