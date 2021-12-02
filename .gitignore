@@ -39,6 +39,7 @@ builds/server*.zip
 build/99mtw-1.16.5-*.zip
 minecraft/ds_private_storage.json
 minecraft/keys.txt
+minecraft/options.justenoughkeys.txt
 minecraft/polymer-resourcepack.zip
 minecraft/servers.dat
 minecraft/XaeroWaypoints*
