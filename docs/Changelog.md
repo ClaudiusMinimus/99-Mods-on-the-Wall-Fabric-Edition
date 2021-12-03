@@ -4,6 +4,8 @@
 
 At this point I feel the mod selections is very good. There are only a few mods I am waiting for, then I will stop adding mods.
 
+**Important!** This is only for the server files. The server.properties files shows the version to be 1.3.0, but it should be 1.4.0. Please update so players are not confused.
+
 Dec. 02, 2021
 
 - Mods Added:
