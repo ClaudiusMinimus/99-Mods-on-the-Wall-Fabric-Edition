@@ -1,12 +1,70 @@
 # Change Log
 
+## 99 Mods on the Wall 1.18-1.5.0
+
+Dec. 06, 2021
+
+- Mods Added:
+  - borderless-mining-1.1.1+1.18
+  - Botania-1.18-424-FABRIC
+  - BuildingWands-2.3_mc1.18-fabric
+  - carrier-1.9.0
+  - comforts-fabric-1.0.0-1.18
+  - fabric-branders-spawnermod-1.18-1.1.2
+  - reeses_sodium_options-mc1.18-1.2.3
+  - sodium-extra-mc1.18-0.3.7
+  - sodium-fabric-mc1.18-0.4.0-alpha5+build.9
+  - waystones-fabric-1.18-9.0.0
+- Mods Updated:
+  - apples-carrots-1.4
+  - balm-fabric-2.1.1+0
+  - cloth-config-6.0.45-fabric
+  - conjuring-1.0.17+1.18
+  - deepslatecutting-1.18-1.3.0
+  - EmeraldTools-Fabric-1.18.0-1.3.30
+  - fabric-api-0.44.0+1.18
+  - geckolib-fabric-1.18-3.0.22
+  - Gobber2-Fabric-1.18.0-2.5.52
+  - graves-1.2.2+1.18
+  - GreaterEye-Fabric-1.18.0-1.3.16
+  - grizzlybear-1.18-1.2.1
+  - justenoughkeys-0.4.3-fabric
+  - kubejs-fabric-1800.4.0-build.223
+  - light-overlay-6.0.4
+  - MiningDimensions_Fabric-1.18.0-1.2.35
+  - MobCatcher-Fabric-1.18.0-1.1.17
+  - MoreGems-Fabric-1.18.0-1.3.50
+  - MouseTweaks-fabric-mc1.18-2.16
+  - OverpoweredPickles-Fabric-1.18.0-1.3.6
+  - repurposed_structures_fabric-3.1.6+1.18.0
+  - ResourcefulTools-Fabric-1.18.0-1.2.26
+  - rhino-fabric-1800.1.6-build.81
+  - RoughlyEnoughItems-7.0.346
+  - shulkerboxtooltip-3.0.5+1.18
+  - SimpleBackpack_Fabric-1.18.0-1.2.24
+  - TheVeggieWay_Fabric-1.18.0-1.2.23
+  - things-0.2.8+1.18
+  - toms_storage-1.18-1.1.19 (Now allows REI to pull materials from inventories)
+  - TreeAxe-Fabric-1.18.0-1.1.24
+  - WardBlocks-Fabric-1.18.0-1.2.19
+  - wraith-alloy-forgery-2.0.7+1.18
+  - Xaeros_Minimap_21.22.3.1_Fabric_1.18
+  - XaerosWorldMap_1.18.6.1_Fabric_1.18
+- Mods Removed:
+  - Mambience-3.2.0+1.18 (conflicting with Dynamic Sounds)
+  - structure-tools-1.0.6 (requires RF, which this pack does not use. Replaced Building Wands, which has )
+  - wraith-waystones-2.3.1
+- Other Changes:
+  - Icons for 99 Mods and Things books are now fixed
+  - Added/edited several pages to 99 Mods on the Wall book (Be sure to check out new Tips & Tricks and an updated Known Issues page)
+
 ## 99 Mods Fabric Edition 1.18-1.4.0
+
+Dec. 02, 2021
 
 At this point I feel the mod selections is very good. There are only a few mods I am waiting for, then I will stop adding mods.
 
 **Important!** This is only for the server files. The server.properties files shows the version to be 1.3.0, but it should be 1.4.0. Please update so players are not confused.
-
-Dec. 02, 2021
 
 - Mods Added:
   - balm-fabric-2.0.0+0
