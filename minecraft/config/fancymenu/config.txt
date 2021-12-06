@@ -20,7 +20,7 @@ I:splashrotation = '-20';
 I:splashy = '30';
 I:splashx = '0';
 B:hidesplashtext = 'false';
-S:splashtextfile = 'minecraft/config/fancymenu/splas';
+S:splashtextfile = 'minecraft/splash.txt';
 S:splashorientation = 'original';
 
 
