@@ -91,16 +91,20 @@ modlist.html
 !minecraft/config/mining_dims
 !minecraft/config/more_gems
 !minecraft/config/paxi
+!minecraft/config/permissions
 !minecraft/config/treeaxe
 !minecraft/config/yosbr
+!minecraft/config/EssentialCommands.properties
 !server/config/emerald_tools
 !server/config/EssentialGUI
 !server/config/gobber2
 !server/config/mining_dims
 !server/config/more_gems
 !server/config/paxi
+!server/config/permissions
 !server/config/treeaxe
 !server/config/yosbr
+!server/config/EssentialCommands.properties
 
 # Still ignore this directory
 #minecraft/config/betterdefaultbiomes/food
