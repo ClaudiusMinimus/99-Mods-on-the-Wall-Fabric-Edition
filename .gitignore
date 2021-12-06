@@ -91,7 +91,7 @@ modlist.html
 !minecraft/config/mining_dims
 !minecraft/config/more_gems
 !minecraft/config/paxi
-!minecraft/config/permissions
+#!minecraft/config/permissions
 !minecraft/config/treeaxe
 !minecraft/config/yosbr
 !minecraft/config/EssentialCommands.properties
@@ -101,7 +101,7 @@ modlist.html
 !server/config/mining_dims
 !server/config/more_gems
 !server/config/paxi
-!server/config/permissions
+#!server/config/permissions
 !server/config/treeaxe
 !server/config/yosbr
 !server/config/EssentialCommands.properties
