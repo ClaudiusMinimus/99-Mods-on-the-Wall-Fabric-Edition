@@ -1,6 +1,6 @@
 {
     "name": "99 Mods on the Wall",
-    "landing_text": "$(playername), Welcome to 99 Mods on the Wall: Fabric Edition! This book should help you get started playing this pack. 99 Mods on the Wall uses several 1.17.1 mods, so expect bugs!",
-    "version": 2,
+    "landing_text": "$(playername), Welcome to 99 Mods on the Wall: Fabric Edition! This book should help you get started playing this pack. 99 Mods on the Wall uses several 1.17.1 mods, so expect bugs and frequent updates in the beginning.",
+    "version": 3,
     "book_texture": "patchouli:textures/gui/book_purple.png"
 }

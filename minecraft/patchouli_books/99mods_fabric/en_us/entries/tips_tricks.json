@@ -2,7 +2,7 @@
     "name": "Tips & Tricks",
     "icon": "minecraft:writable_book",
     "category": "patchouli:getting_started",
-    "sortnum": 4,
+    "sortnum": 20,
     "pages": [
         {
             "type": "patchouli:text",
@@ -15,16 +15,14 @@
             "text": "Use a Grindstone to pull enchantments off of books, tools, weapons, and armor."
         },
         {
-            "type": "patchouli:spotlight",
-            "title": "Make a Map",
-            "item": "minecraft:map",
-            "text": "Since there are no minimap/map mods for 1.18 yet, make a Minecraft Map! After initializing the map, place it back into a crafting table surrounded by paper so you can see it zoomed out - this can be done four times."
+            "type": "patchouli:text",
+            "title": "Pick Up Items",
+            "text": "By shift right-click on an inventory you can pick it up and move it. Both hands must be empty for this to work."
         },
         {
-            "type": "patchouli:spotlight",
-            "title": "Make a Banner",
-            "item": "minecraft:blue_banner",
-            "text": "The next step is to make a banner and name it in an anvil. Once you have an initialized map, place the banner and right-click the map on the banner. Your map you will show the banner location and you can find your way home!"
+            "type": "patchouli:text",
+            "title": "Lookup Mods",
+            "text": "If you want to learn about a particular mod, then open the Mods menu page.$(li)From the main menu page, click on the  Mods icon. From within a world, open Game Menu page (default Esc key).$(li)Click on Mods.$(li)Search for the mod you are interested in.$(li)Click on the mod icon to show the details. You can find issue trackers, website links, and mod settings."
         }
     ]
 }
