@@ -1,8 +1,11 @@
 type = menu
 
 customization-meta {
-  identifier = net.minecraft.client.gui.screen.WorldSelectionScreen
+  identifier = net.minecraft.class_526
+  randomgroup = 1
   renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
 }
 
 customization {
@@ -11,13 +14,18 @@ customization {
 }
 
 customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
   path = config/fancymenu/images/menu/logo.png
-  orientation = top-left
-  x = 420
+  orientation = bottom-right
+  x = -54
   width = 47
   action = addtexture
   actionid = 57ad872c-471d-4c82-83ed-fafa24d6b4d11618853224838
-  y = 207
+  y = -53
   height = 47
 }
 
