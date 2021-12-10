@@ -4,6 +4,8 @@
 
 Dec. 10, 2021
 
+There are still a few mods that will not run on 1.18.1, but will update as soon as possible. The widely know security issue has been addressed in Fabric 0.12.11, which this version is updated to.
+
 - Mods Added:
   - AdditionalAdditions-3.0.1
   - bobby-3.0.0
