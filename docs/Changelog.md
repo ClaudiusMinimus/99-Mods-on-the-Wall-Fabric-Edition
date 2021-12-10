@@ -7,6 +7,7 @@ Dec. 10, 2021
 - Mods Added:
 - Mods Updated:
 - Mods Removed:
+  - Paxi-Fabric-1.17-1.2.2 (now using Kubejs)
 - Other Changes:
   - Updated Fabric 0.12.9
   - Double quart elevator distance
