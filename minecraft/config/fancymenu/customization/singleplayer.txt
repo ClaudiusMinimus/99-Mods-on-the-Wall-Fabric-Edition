@@ -19,13 +19,24 @@ customization {
 }
 
 customization {
-  path = config/fancymenu/images/menu/logo.png
+  path = config/fancymenu/images/menu/logo-fabric-trans.png
   orientation = bottom-right
   x = -54
-  width = 47
+  width = 49
   action = addtexture
-  actionid = 57ad872c-471d-4c82-83ed-fafa24d6b4d11618853224838
-  y = -53
-  height = 47
+  actionid = 6e9e1b87-7b43-4f5b-87cc-ed869a5d51f51639090225848
+  y = -56
+  height = 50
+}
+
+customization {
+  path = config/fancymenu/images/menu/logo-fabric-sm.png
+  orientation = bottom-right
+  x = -51
+  width = 45
+  action = addtexture
+  actionid = fc447aad-4080-4a72-a148-1f09d15dd7b81639092366241
+  y = -52
+  height = 45
 }
 
