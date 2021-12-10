@@ -15,7 +15,7 @@ minecraft/output/*
 minecraft/saves/*
 minecraft/shaderpacks/*
 minecraft/screenshots/*
-minecraft/XaeroWorldMap/*
+minecraft/XaeroWdssdsorldMap/*
 minecraft/XaeroWaypoints/*
 server/backup/*
 server/backups/*
@@ -97,6 +97,8 @@ modlist.html
 !minecraft/config/treeaxe
 !minecraft/config/yosbr
 !minecraft/config/EssentialCommands.properties
+!minecraft/config/MythicMounts.txt
+!minecraft/config/quartzelv.json
 !server/config/emerald_tools
 !server/config/EssentialGUI
 !server/config/gobber2
@@ -107,6 +109,8 @@ modlist.html
 !server/config/treeaxe
 !server/config/yosbr
 !server/config/EssentialCommands.properties
+!server/config/MythicMounts.txt
+!server/config/quartzelv.json
 
 # Still ignore this directory
 #minecraft/config/betterdefaultbiomes/food
@@ -125,3 +129,5 @@ modlist.html
 !server/config/xp_storage.json5
 !server/server.properties
 !mmc-pack.json
+minecraft/.bobby/*
+minecraft/Xaero*/*
