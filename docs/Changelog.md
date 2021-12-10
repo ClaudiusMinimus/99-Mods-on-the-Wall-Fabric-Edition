@@ -1,6 +1,6 @@
 # Change Log
 
-## 99 Mods Fabric Edition 1.18-1.6.0
+## 99 Mods Fabric Edition 1.18-1.7.0
 
 Dec. 10, 2021
 
