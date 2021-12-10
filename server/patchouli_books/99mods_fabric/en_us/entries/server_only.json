@@ -1,0 +1,26 @@
+{
+    "name": "Server Administration",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:getting_started",
+    "sortnum": 20,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The following information is applicable $(l)only If you are running a server.$()"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Essential Commands",
+            "text": "Essential Commands is a Minecraft (Fabric) mod that adds several simple commands to the game.$(br2)All commands are configurable and toggleable.$(br2)The mod is purely serverside, and is not required on the client. (but it does work on singleplayer worlds)."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Important Essential Commands links:$()$(li)$(l:https://github.com/John-Paul-R/Essential-Commands/wiki/List-of-Commands-&-Permissions)List of Commands$(/l)$(li)Support for the project is provided on $(l:https://discord.com/invite/5que2hQuQh/)Discord$(/l)$()$(br2)If you want to allow players to use /rtp, then you will also need to edit the file: $(#ff0000)config/EssentialCommands.properties$()$(br2)Go to the line that shows:$(br)use_permissions_api=$(#ff0000)false$()$(br)If needed change it to $(#ff0000)true$()"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "LuckyPerms",
+            "text": "LuckyPerms is a powerful permissions management mod, which is used to manage Essential Commands. It has an easy to use built in editing system.$(br2)$(l)Important Links:$()$(li)$(l:https://luckperms.net/wiki/Home)Wiki$(/l) can help you get started.$(li)Support for the project is provided on $(l:https://discord.gg/luckperms)Discord$(/l)$()"
+        }
+    ]
+}

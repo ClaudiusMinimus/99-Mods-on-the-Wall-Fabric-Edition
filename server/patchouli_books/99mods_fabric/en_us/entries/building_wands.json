@@ -1,0 +1,13 @@
+{
+    "name": "Building Wands",
+    "icon": "wands:diamond_wand",
+    "category": "patchouli:getting_started",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "wands:diamond_wand",
+            "text": "$(l:https://www.curseforge.com/minecraft/mc-mods/building-wands)Building Wands$(/l) is a powerful building tool that is the most feature rich building wand I have seen. There is a good guide to using the wands on the $(l:https://www.curseforge.com/minecraft/mc-mods/building-wands)Building Wands Curseforge$(/l) page."
+        }
+    ]
+}
