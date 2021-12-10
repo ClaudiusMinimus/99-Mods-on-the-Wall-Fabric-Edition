@@ -1,16 +1,11 @@
 type = menu
 
 customization-meta {
-  identifier = net.minecraft.class_525
+  identifier = net.minecraft.class_5375
   randomgroup = 1
   renderorder = foreground
   randommode = false
   randomonlyfirsttime = false
-}
-
-customization {
-  path = config/fancymenu/images/menu/backgroundnobricks.png
-  action = texturizebackground
 }
 
 customization {
@@ -24,7 +19,7 @@ customization {
   x = -50
   width = 45
   action = addtexture
-  actionid = c99218d3-2085-4b1f-85c6-4aa2c979baa21639118261034
+  actionid = ecf6821b-2f4f-4a0f-bd3f-3703f79b6bf71639118327557
   y = -52
   height = 45
 }
