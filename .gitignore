@@ -86,6 +86,7 @@ modlist.html
 # Do not ignore these directories
 !minecraft/config/customwindowtitle
 !minecraft/config/defaultsettings
+!minecraft/config/drippyloadingscreen
 !minecraft/config/emerald_tools
 !minecraft/config/EssentialGUI
 !minecraft/config/fancymenu
