@@ -1,0 +1,124 @@
+{
+    "name": "FLAN",
+    "icon": "99mods:images/flan/flan.png",
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:image",
+            "images": [
+                "99mods:images/flan/flan.png"
+            ]
+        },
+        {
+            "title": "FLAN",
+            "type": "patchouli:text",
+            "text": "Flan is a server side fabric mod that adds claims to your world.$(br2)The contents of this chapter comes from the official $(l:https://github.com/Flemmli97/Flan/wiki)FLAN wiki$(/l)"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "99mods:images/flan/golden-hoe.png"
+            ],
+            "title": "Getting Started"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "(for players)",
+            "text": "To get started the first thing you need is (by default) a golden hoe. This will be your tool to create land claims. Holding the tool will display your current claim blocks and the amount you used."
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "99mods:images/flan/create-claim.png"
+            ],
+            "title": "Create New Claim"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "To create a claim now right click on one block to select a corner and on another block to set the other corner. If it was successful you will get a message that a claim was created, else it will tell you why the creation failed. Alternatively you can also use the command \"/flan addClaim\" to do that if by some reason you prefer that method.$(br2)Resizing claim is done by right clicking on one corner of a claim and then on another block to set the new corner."
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "99mods:images/flan/resize-claim.png"
+            ],
+            "title": "Check Claim"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "To check if a block is claimed you can use the inspect tool (default is a stick)."
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "99mods:images/flan/edit-global.png",
+                "99mods:images/flan/edit-group.png"
+            ],
+            "title": "Customizing Claims",
+            "text": "$(o)use above the arrow to see both images$()"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "With your newly created claim your belongings should now be safe from other players. But there is a lot more to it than just that. Standing in a claim and typing \"/flan menu\" a gui will open with following options:$(li)Edit Global Permissions$(li)Edit Group Permissions"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "99mods:images/flan/set-global.png"
+            ],
+            "title": "Global Permissions"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "First global permissions: Here you can specify what other players can do inside your claim and what not. There exist a plethora of permissions for nearly all your needs (if something you want is missing you are free to suggest that)."
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "99mods:images/flan/set-group.png"
+            ],
+            "title": "Group Permissions"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Now onto group permissions: A group is... well a group you assign players to that have custom permission. Group permissions override the global perms so you can make certain players e.g. able to open chests while the rest can't. A newly created claim already contains 2 predefined groups: Co-Op and Visitors. Check out their permissions to see what they allow and what not. Those groups contain no players. You can create a group by simply clicking on the anvil."
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "99mods:images/flan/add-player.png"
+            ],
+            "title": "Add Player"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "To add players to a group left click on the group while right clicking opens up the permission gui of that group."
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "99mods:images/flan/edit-subclaim.png"
+            ],
+            "title": "Subclaim",
+            "text": "A subclaim is a claim inside a claim. Subclaims have their own permission and group sets that"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "override the parent claim they are in (no you cannot create a subclaim inside a subclaim). Subclaim permissions have an additional value \"default\" instead of just true and false which simply redirects that permission back to the parent claim. To create a subclaim switch to subclaim mode via /flan switchMode. Then use your claiming tool the same way you create a normal claim. Opening the subclaim menu and editing subclaim permissions requires you to be in subclaim mode too."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Predefined Groups",
+            "text": "The 2 predefined groups of a new claim can be overwritten. This is achieved via so called personal groups. Personal groups are playerbound groups to ease in the creation of claim groups so you don't need to define the same group for each claim everytime. Use /flan personalGroups to open up the personal group gui to edit your personal groups. The gui is operated the same as the normal claim group gui. If you have defined at least one"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "group the default predefined groups will not be applied to new claims anymore."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "But what if no like gui",
+            "text": "Everything you can do through the gui and tools can also be done through commands. Head over to the $(l:https://github.com/Flemmli97/Flan/wiki/Commands)wiki commands page$(/l) to see how to."
+        }
+    ]
+}

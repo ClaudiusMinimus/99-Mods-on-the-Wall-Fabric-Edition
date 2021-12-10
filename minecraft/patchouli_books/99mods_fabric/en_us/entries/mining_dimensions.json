@@ -1,0 +1,70 @@
+{
+    "name": "Mining Dimensions",
+    "icon": "mining_dims:mining_teleporter",
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "text",
+            "title": "Mining Portals",
+            "text": "$(l)New Features in 1.18$()$(li)Five (5) Dimensions: Mining, Climbing, Caving, Hunting, and Nethering$(li)Mining, Climbing, and Caving now use the new 1.18 world height (384 to -64)$(li)Mining Dim has Deserts and Plains only, although hilly due to 1.18 changes$(li)Climbing Dim has Wind-swept Hills and Badlands only$(li)Caving Dim's surface block is now vanilla stone, instead"
+        },{
+            "type": "text",
+            "text": "of Mycelium $(li)Free-standing portals as in previous versions$(li)Mining portal uses Deepslate$(li)Caving portal uses Tuff$(li)Teleporters have a \"return to bed\" feature when you sneak + right-click with the new Returning enchantment$(li)Additional deepslate diamond ore in Overworld, Mining, Climbing, and Caving.  Can be adjusted in config.  Default value is very modest.$(li)Additional ancient debris ore in Nether and Nethering Dims."
+        },{
+            "type": "text",
+            "text": "Can be adjusted in config.  Default value is very modest.$(li)New feature to bypass ocean check, and place a stone block under player if in water, bring a boat!$(br2)This chapter is taken from the $(l:https://www.curseforge.com/minecraft/mc-mods/mining-dimensions-fabric)Mining Dimension$(/l) Curseforge page."
+        },{
+            "type": "image",
+            "title": "Portable Teleporters",
+            "images": [
+                "99mods:images/mining_dimensions/portable_teleporters.png"
+            ],
+            "text": "Teleporters have a \"return to bed\" feature when you sneak + right-click with the new Returning enchantment"
+        },{
+            "type": "image",
+            "title": "Mining Dimension",
+            "images": [
+                "99mods:images/mining_dimensions/mining_portal.png"
+            ]
+        },{
+            "type": "text",
+            "text": "A dimensions with two biomes (desert and plains) and is always noon; same ores and structures as Overworld; made with deepslate and lit with flint-n-steel."
+        },{
+            "type": "image",
+            "title": "Climbing Dimension",
+            "images": [
+                "99mods:images/mining_dimensions/climbing_portal.png"
+            ]
+        },{
+            "type": "text",
+            "text": "A dimensions with two biomes (badlands and wind-swept hills) and is always noon; same ores and structures as Overworld; made with snow blocks and lit with flint-n-steel."
+        },{
+            "type": "image",
+            "title": "Hunting Dimension",
+            "images": [
+                "99mods:images/mining_dimensions/hunting_portal.png"
+            ]
+        },{
+            "type": "text",
+            "text": "A dimension with just plains, always dark, and full of juiced up, armored mobs; only vanilla ores; made with oak logs and lit with flint-n-steel; seriously, the mobs are tough and you will likely die!"
+        },{
+            "type": "image",
+            "title": "Caving Dimension",
+            "images": [
+                "99mods:images/mining_dimensions/caving_portal.png"
+            ]
+        },{
+            "type": "text",
+            "text": "A safe haven dimension of Mushroom biome caves; same ores as Overworld; made with tuff and lit with flint-n-steel; only spawns bats and the occasional spider spawner in mineshafts."
+        },{
+            "type": "image",
+            "title": "Nethering Dimension",
+            "images": [
+                "99mods:images/mining_dimensions/nethering_portal.png"
+            ]
+        },{
+            "type": "text",
+            "text": "A vanilla-only Nether dimension, helpful for finding vanilla resources that are difficult to find when the regular Nether is filled with modded biomes.  Made with Basalt and lit with flint-n-steel."
+        }
+    ]
+}
