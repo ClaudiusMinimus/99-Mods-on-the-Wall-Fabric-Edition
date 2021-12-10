@@ -24,7 +24,7 @@ max-players=20
 #default 60000 to disable use -1
 max-tick-time=-1
 max-world-size=29999984
-motd=\u00A73 99 Mods on the Wall\: Fabric Edition \u00A76\n>>>> Ver. 1.18.-1.5.0<<<<Welcome to our offical server\!
+motd=\u00A73 99 Mods on the Wall\: Fabric Edition \u00A76\n>>>> Ver. 1.18.-1.6.0<<<<Welcome to our official server\!
 network-compression-threshold=256
 online-mode=true
 op-permission-level=4
