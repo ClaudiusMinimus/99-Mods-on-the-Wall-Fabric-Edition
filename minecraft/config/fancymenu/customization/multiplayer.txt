@@ -19,12 +19,12 @@ customization {
 }
 
 customization {
-  path = config/fancymenu/images/menu/logo.png
+  path = config/fancymenu/images/menu/logo-fabric-sm.png
   orientation = bottom-right
-  x = -54
+  x = -52
   width = 45
   action = addtexture
-  actionid = 3a2d27c0-73a8-465d-bc93-54523b01adc61638391007472
+  actionid = d82aca58-2cae-42ba-9378-2784f6d586071639092234191
   y = -52
   height = 45
 }
