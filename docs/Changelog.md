@@ -5,7 +5,27 @@
 Dec. 10, 2021
 
 - Mods Added:
+  - AdditionalAdditions-3.0.1
+  - bobby-3.0.0
+  - dankstorage-3-1.18
+  - drippyloadingscreen_fabric_1.4.2_MC_1.18
+  - farmingforblockheads-fabric-1.18.1-9.0.1
+  - flan-1.18-1.6.4-fabric
+  - textile_backup-2.3.0-1.18 (mostly for servers, but can be used in the client too)
 - Mods Updated:
+  - architectury-3.2.47
+  - balm-fabric-2.3.0+0
+  - continuity-1.0.3+1.18
+  - Couplings-1.7.1+1.18
+  - dark-enchanting-0.6.1+1.18
+  - fabric-experiencebugfix-1.18-18
+  - fancymenu_fabric_2.4.3_MC_1.18
+  - grind-enchantments-1.5.0+1.18
+  - InventoryProfilesNext-fabric-1.18-1.2.0
+  - konkrete_fabric_1.3.2_MC_1.18
+  - kubejs-fabric-1800.4.0-build.235
+  - LargeFluidTank-18.0.403-fabric
+  - repurposed_structures_fabric-3.1.8+1.18.0
 - Mods Removed:
   - borderless-mining-1.1.1+1.18 (buggy)
   - carrier-1.9.0 (causing conflicts with Conjuring)
@@ -13,10 +33,11 @@ Dec. 10, 2021
   - Paxi-Fabric-1.17-1.2.2 (now using Kubejs which is a 1.18 mod)
 - Other Changes:
   - Updated Fabric 0.12.11
-  - Double quart elevator distance
+  - Double quartz elevator distance
   - Add Flan to 99 Mods book
   - Add Mining Dimension to 99 Mods book
   - Add Gobber fuels for Alloy Forgery
+  - Server side only: The files start.sh and start.bat now automatically install Fabric and start the server
 
 ## 99 Mods on the Wall 1.18-1.5.0
 
@@ -29,6 +50,7 @@ Dec. 06, 2021
   - carrier-1.9.0
   - comforts-fabric-1.0.0-1.18
   - fabric-branders-spawnermod-1.18-1.1.2
+  - LuckPerms-Fabric-5.3.86 (server side only)
   - reeses_sodium_options-mc1.18-1.2.3
   - sodium-extra-mc1.18-0.3.7
   - sodium-fabric-mc1.18-0.4.0-alpha5+build.9
