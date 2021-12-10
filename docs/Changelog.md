@@ -9,6 +9,7 @@ Dec. 10, 2021
 - Mods Removed:
   - borderless-mining-1.1.1+1.18 (buggy)
   - carrier-1.9.0 (causing conflicts with Conjuring)
+  - get-off-my-lawn-1.17-1.4.0-beta (replaced with FLAN)
   - Paxi-Fabric-1.17-1.2.2 (now using Kubejs which is a 1.18 mod)
 - Other Changes:
   - Updated Fabric 0.12.11
