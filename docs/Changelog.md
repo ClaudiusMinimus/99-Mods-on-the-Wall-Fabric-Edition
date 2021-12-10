@@ -7,9 +7,11 @@ Dec. 10, 2021
 - Mods Added:
 - Mods Updated:
 - Mods Removed:
-  - Paxi-Fabric-1.17-1.2.2 (now using Kubejs)
+  - borderless-mining-1.1.1+1.18 (buggy)
+  - carrier-1.9.0 (causing conflicts with Conjuring)
+  - Paxi-Fabric-1.17-1.2.2 (now using Kubejs which is a 1.18 mod)
 - Other Changes:
-  - Updated Fabric 0.12.9
+  - Updated Fabric 0.12.11
   - Double quart elevator distance
   - Add Flan to 99 Mods book
   - Add Mining Dimension to 99 Mods book
