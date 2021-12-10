@@ -39,6 +39,7 @@ builds/*(copy).zip
 build/*server.zip
 builds/server*.zip
 build/99mtw-1.16.5-*.zip
+luckperms/*
 minecraft/ds_private_storage.json
 minecraft/keys.txt
 minecraft/options.justenoughkeys.txt
