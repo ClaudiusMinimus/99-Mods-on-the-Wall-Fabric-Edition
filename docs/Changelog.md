@@ -1,5 +1,19 @@
 # Change Log
 
+## 99 Mods Fabric Edition 1.18-1.6.0
+
+Dec. 10, 2021
+
+- Mods Added:
+- Mods Updated:
+- Mods Removed:
+- Other Changes:
+  - Updated Fabric 0.12.9
+  - Double quart elevator distance
+  - Add Flan to 99 Mods book
+  - Add Mining Dimension to 99 Mods book
+  - Add Gobber fuels for Alloy Forgery
+
 ## 99 Mods on the Wall 1.18-1.5.0
 
 Dec. 06, 2021
