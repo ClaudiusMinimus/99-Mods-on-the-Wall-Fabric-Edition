@@ -1,5 +1,50 @@
 # Change Log
 
+## 99 Mods Fabric Edition 1.18.1-1.8.0
+
+Dec. 13, 2021
+
+- Mods Added:
+  - wraith-harvestscythes-2.3.1
+- Mods Updated:
+  - Adorn-3.0.0+1.18.1-fabric
+  - architectury-3.2.51
+  - better-recipe-book-1.5.5-1.18.1
+  - Botania-1.18-425-FABRIC
+  - camerautils-1.18.1-1.0.0
+  - cloth-config-6.1.48-fabric
+  - CraftPresence-Fabric-1.18.1-Release-1.8.8
+  - dankstorage-3.0.1-1.18
+  - EmeraldTools-Fabric-1.18.1-1.3.31
+  - geckolib-fabric-1.18-3.0.23
+  - Gobber2-Fabric-1.18.1-2.5.53
+  - GreaterEye-Fabric-1.18.1-1.3.17
+  - InventoryProfilesNext-fabric-1.18-1.2.1
+  - kubejs-fabric-1801.4.0-build.242
+  - LargeFluidTank-18.1.405-fabric
+  - MiningDimensions_Fabric-1.18.1-1.2.36
+  - Mo-Glass-1.5-MC1.18.1
+  - MobCatcher-Fabric-1.18.1-1.1.18
+  - MoreGems-Fabric-1.18.1-1.3.51
+  - OverpoweredPickles-Fabric-1.18.1-1.3.7
+  - reinforced-shulker-boxes-1.1.5+1.18
+  - repurposed_structures_fabric-3.1.10+1.18.1
+  - ResourcefulTools-Fabric-1.18.1-1.2.27
+  - RoughlyEnoughItems-7.0.352
+  - SimpleBackpack_Fabric-1.18.1-1.2.25
+  - The_Graveyard_1.1_(FABRIC)_for_1.18.1
+  - TheVeggieWay_Fabric-1.18.1-1.2.24
+  - TreeAxe-Fabric-1.18.1-1.1.25
+  - WardBlocks-Fabric-1.18.1-1.2.20
+  - waystones-fabric-1.18.1-9.0.1
+  - wmitaf-fabric-mc1.18.1-2.1.5
+  - Xaeros_Minimap_21.22.5_Fabric_1.18
+  - XaerosWorldMap_1.18.7_Fabric_1.18
+  - xp_storage-1.4.3+1.18
+- Mods Removed:
+- Other Changes:
+  - Minecraft 1.18.1 This release fixes a critical security issue for multiplayer servers, changes how the world fog works to make more of the world visible, and fixes a couple of other bugs.
+
 ## 99 Mods Fabric Edition 1.18-1.7.1
 
 Dec. 10, 2021
