@@ -36,8 +36,7 @@ server/world*
 
 # Ignore these files
 builds/*(copy).zip
-build/*server.zip
-builds/server*.zip
+build/*server*.zip
 build/99mtw-1.16.5-*.zip
 luckperms/*
 minecraft/ds_private_storage.json
