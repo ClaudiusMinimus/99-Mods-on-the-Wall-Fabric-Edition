@@ -9,7 +9,7 @@ entityShadows:true
 forceUnicodeFont:false
 discrete_mouse_scroll:false
 invertYMouse:false
-realmsNotifications:true
+realmsNotifications:false
 reducedDebugInfo:false
 showSubtitles:false
 touchscreen:false
@@ -24,7 +24,7 @@ fov:0.0
 screenEffectScale:1.0
 fovEffectScale:1.0
 gamma:0.75
-renderDistance:12
+renderDistance:13
 simulationDistance:12
 entityDistanceScaling:1.0
 guiScale:0
@@ -32,15 +32,15 @@ particles:0
 maxFps:120
 difficulty:2
 graphicsMode:2
-ao:1
+ao:0
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","Fabric Mods","canvas/canvas_default","file/Misa_1.17e.zip","99modsfabric"]
-incompatibleResourcePacks:["file/Misa_1.17e.zip"]
+resourcePacks:["vanilla","Fabric Mods","continuity/default","continuity/glass_pane_culling_fix","cullleaves/smartleaves","file/Clarity_1.18.zip"]
+incompatibleResourcePacks:["cullleaves/smartleaves"]
 lastServer:
 lang:en_us
-soundDevice:TU104 HD Audio Controller Digital Stereo (HDMI)
+soundDevice:default
 chatVisibility:0
 chatOpacity:1.0
 chatLineSpacing:0.0
@@ -66,7 +66,7 @@ tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:true
+skipMultiplayerWarning:false
 hideMatchedNames:true
 joinedFirstServer:true
 hideBundleTutorial:false
@@ -107,6 +107,10 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
+key_Toggle Drippy Customization Overlay | CTRL + ALT + :key.keyboard.l
+key_Reload Menu | CTRL + ALT + :key.keyboard.r
+key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
+key_key.botania_corporea_request:key.keyboard.c
 key_key.camerautils.zoom:key.keyboard.z
 key_key.camerautils.third_person_cam_1:key.keyboard.f6
 key_key.camerautils.third_person_cam_2:key.keyboard.unknown
@@ -120,13 +124,23 @@ key_key.camerautils.third_person_camera_2_settings:key.keyboard.unknown
 key_key.camerautils.third_person_settings:key.keyboard.unknown
 key_key.camerautils.zoom_settings:key.keyboard.unknown
 key_key.camerautils.zoom_animation_settings:key.keyboard.unknown
-key_key.canvas.debug_toggle:key.keyboard.grave.accent
-key_key.canvas.debug_prev:key.keyboard.left.bracket
-key_key.canvas.debug_next:key.keyboard.right.bracket
-key_key.canvas.recompile:key.keyboard.equal
-key_key.canvas.flawless_toggle:key.keyboard.unknown
-key_key.canvas.profiler_toggle:key.keyboard.unknown
 key_key.conjuring.toggle_tool_mode:key.keyboard.left.alt
+key_key.craftingtweaks.rotate:key.keyboard.unknown
+key_key.craftingtweaks.rotate_counter_clockwise:key.keyboard.unknown
+key_key.craftingtweaks.balance:key.keyboard.unknown
+key_key.craftingtweaks.spread:key.keyboard.unknown
+key_key.craftingtweaks.clear:key.keyboard.unknown
+key_key.craftingtweaks.force_clear:key.keyboard.unknown
+key_key.craftingtweaks.toggleButtons:key.keyboard.unknown
+key_key.craftingtweaks.compressOne:key.keyboard.k
+key_key.craftingtweaks.compressStack:key.keyboard.k
+key_key.craftingtweaks.compressAll:key.keyboard.k
+key_key.craftingtweaks.decompressOne:key.keyboard.unknown
+key_key.craftingtweaks.decompressStack:key.keyboard.unknown
+key_key.craftingtweaks.decompressAll:key.keyboard.unknown
+key_key.craftingtweaks.refill_last:key.keyboard.tab
+key_key.craftingtweaks.refill_last_stack:key.keyboard.tab
+key_key.dankstorage.construction:key.keyboard.i
 key_key.essentialgui.main_menu:key.keyboard.f6
 key_key.essentialgui.debug_entities:key.keyboard.f10
 key_key.essentialgui.toggle_lightning:key.keyboard.f9
@@ -141,14 +155,19 @@ key_key.mousewheelie.sort_inventory:key.mouse.middle
 key_key.mousewheelie.scroll_up:key.amecsapi.mouse.scroll.up
 key_key.mousewheelie.scroll_down:key.amecsapi.mouse.scroll.down
 key_key.mousewheelie.pick_tool:key.keyboard.unknown
-key_key.okzoomer.zoom:key.keyboard.c
-key_key.okzoomer.decrease_zoom:key.keyboard.unknown
-key_key.okzoomer.increase_zoom:key.keyboard.unknown
-key_key.okzoomer.reset_zoom:key.keyboard.unknown
 key_key.projectsavethepets.allowdamage:key.keyboard.left.shift
 key_key.storagebox.colon:key.keyboard.semicolon
 key_key.things.place_item:key.keyboard.j
 key_key.things.openenderchest:key.keyboard.g
+key_key.wands.wand_mode:key.keyboard.v
+key_key.wands.wand_action:key.keyboard.h
+key_key.wands.wand_menu:key.keyboard.m
+key_key.wands.wand_orientation:key.keyboard.x
+key_key.wands.wand_invert:key.keyboard.i
+key_key.wands.wand_fill_circle:key.keyboard.k
+key_key.wands.wand_undo:key.keyboard.u
+key_key.wands.palette_menu:key.keyboard.j
+key_key.wands.wand_palette_mode:key.keyboard.r
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
 key_gui.xaero_instant_waypoint:key.keyboard.keypad.add
 key_gui.xaero_toggle_slime:key.keyboard.unknown
@@ -158,8 +177,8 @@ key_gui.xaero_toggle_map_waypoints:key.keyboard.unknown
 key_gui.xaero_toggle_map:key.keyboard.unknown
 key_gui.xaero_enlarge_map:key.keyboard.z
 key_gui.xaero_waypoints_key:key.keyboard.u
-key_gui.xaero_zoom_in:key.keyboard.unknown
-key_gui.xaero_zoom_out:key.keyboard.unknown
+key_gui.xaero_zoom_in:key.keyboard.equal
+key_gui.xaero_zoom_out:key.keyboard.minus
 key_gui.xaero_new_waypoint:key.keyboard.b
 key_gui.xaero_display_all_sets:key.keyboard.unknown
 key_gui.xaero_toggle_light_overlay:key.keyboard.unknown
