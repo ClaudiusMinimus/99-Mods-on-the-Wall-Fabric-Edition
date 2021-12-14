@@ -33,6 +33,7 @@ server/mods*/*
 server/patchouli_books_*/*
 server/world/*
 server/world*
+temp/*
 
 # Ignore these files
 builds/*(copy).zip
