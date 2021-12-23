@@ -24,3 +24,14 @@ customization {
   height = 45
 }
 
+customization {
+  path = config/fancymenu/images/menu/fabricglow.png
+  orientation = bottom-right
+  x = -28
+  width = 30
+  action = addtexture
+  actionid = 2798a96d-fb63-4e45-8a22-106fc6752de51640290238763
+  y = -30
+  height = 30
+}
+

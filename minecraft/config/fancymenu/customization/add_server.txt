@@ -1,7 +1,7 @@
 type = menu
 
 customization-meta {
-  identifier = net.minecraft.class_500
+  identifier = net.minecraft.class_422
   randomgroup = 1
   renderorder = foreground
   randommode = false
@@ -21,10 +21,10 @@ customization {
 customization {
   path = config/fancymenu/images/menu/logo-fabric-sm.png
   orientation = bottom-right
-  x = -52
+  x = -51
   width = 45
   action = addtexture
-  actionid = d82aca58-2cae-42ba-9378-2784f6d586071639092234191
+  actionid = d00408c9-c63d-45cf-a86b-3edd5c7431451640290057269
   y = -52
   height = 45
 }
@@ -35,7 +35,7 @@ customization {
   x = -29
   width = 30
   action = addtexture
-  actionid = f07db1fc-ef5a-45d7-8584-ca3121aeec591640289943020
+  actionid = f8601634-8eda-4366-8327-e24021828a0b1640289988783
   y = -30
   height = 30
 }

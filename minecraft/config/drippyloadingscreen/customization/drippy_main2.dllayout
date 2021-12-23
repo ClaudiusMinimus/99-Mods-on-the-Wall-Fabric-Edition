@@ -23,13 +23,24 @@ customization {
 }
 
 customization {
-  path = config/fancymenu/images/menu/logo2.png
+  path = config/fancymenu/images/menu/fabricglow.png
+  orientation = bottom-right
+  x = 0
+  width = 100
+  action = addtexture
+  actionid = 21990e61-a0a7-4dbd-b5f6-19a462166c281640288000528
+  y = 0
+  height = 100
+}
+
+customization {
+  path = config/fancymenu/images/menu/logo-fabric.png
   orientation = mid-centered
   x = 0
-  width = 138
+  width = 196
   action = addtexture
-  actionid = 22ae14c2-3053-4ab2-9b24-261d120fa1131639153792455
+  actionid = 159ba2ba-546b-464c-89f7-20795320f7ae1640288161949
   y = 0
-  height = 150
+  height = 200
 }
 

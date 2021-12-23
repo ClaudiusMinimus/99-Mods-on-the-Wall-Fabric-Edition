@@ -1,16 +1,11 @@
 type = menu
 
 customization-meta {
-  identifier = net.minecraft.class_500
+  identifier = com.terraformersmc.modmenu.gui.ModsScreen
   randomgroup = 1
   renderorder = foreground
   randommode = false
   randomonlyfirsttime = false
-}
-
-customization {
-  path = config/fancymenu/images/menu/backgroundnobricks.png
-  action = texturizebackground
 }
 
 customization {
@@ -21,10 +16,10 @@ customization {
 customization {
   path = config/fancymenu/images/menu/logo-fabric-sm.png
   orientation = bottom-right
-  x = -52
+  x = -50
   width = 45
   action = addtexture
-  actionid = d82aca58-2cae-42ba-9378-2784f6d586071639092234191
+  actionid = dcbc0112-2230-4cda-8eff-ebef2214b5a51640290559850
   y = -52
   height = 45
 }
@@ -32,10 +27,10 @@ customization {
 customization {
   path = config/fancymenu/images/menu/fabricglow.png
   orientation = bottom-right
-  x = -29
+  x = -28
   width = 30
   action = addtexture
-  actionid = f07db1fc-ef5a-45d7-8584-ca3121aeec591640289943020
+  actionid = 79e44d7a-086a-470a-94c8-c6afb3911df51640290514260
   y = -30
   height = 30
 }

@@ -9,6 +9,11 @@ customization-meta {
 }
 
 customization {
+  path = config/fancymenu/images/menu/backgroundnobricks.png
+  action = texturizebackground
+}
+
+customization {
   keepaspectratio = false
   action = backgroundoptions
 }
@@ -22,5 +27,16 @@ customization {
   actionid = 2a286b2e-0e3a-4c70-b494-dd8fa209ad4e1639118423252
   y = -52
   height = 45
+}
+
+customization {
+  path = config/fancymenu/images/menu/fabricglow.png
+  orientation = bottom-right
+  x = -28
+  width = 30
+  action = addtexture
+  actionid = b1724897-e1cc-4c26-b9c9-fa0ed66a703d1640290373871
+  y = -30
+  height = 30
 }
 
