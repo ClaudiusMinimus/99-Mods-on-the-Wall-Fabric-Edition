@@ -1,5 +1,68 @@
 # Change Log
 
+## 99 Mods Fabric Edition 1.18.1-1.9.0
+
+Dec. 23, 2021
+
+- Mods Added:
+  - DungeonsArise-1.18.1-2.1.49b-fabric-beta
+  - farmers-delight-fabric-1.18.1-0.2.0
+  - ModularLootcrates-2.6.0-1.18.1
+  - red-bits-1.11.0
+- Mods Updated:
+  - apples-carrots-1.5
+  - architectury-3.2.60
+  - bobby-3.1.0
+  - Botania-1.18.1-427-FABRIC
+  - brb-Fabric-1.5.6
+  - BuildingWands-2.3.1_mc1.18.1-fabric
+  - chisel-1.4.4+1.18.1
+  - Clumps-fabric-1.18.1-8.0.4
+  - dankstorage-1.18.1-3.1.3
+  - dark-enchanting-0.6.2+1.18
+  - EmeraldTools-Fabric-1.18.1-1.3.33
+  - EnchantmentDescriptions-Fabric-1.18.1-9.0.4
+  - essential_commands-0.19.0-mc1.18.1
+  - fabric-api-0.45.0+1.18
+  - fabric-language-kotlin-1.7.1+kotlin.1.6.10
+  - Gobber2-Fabric-1.18.1-2.5.55
+  - graves-2.0.0-beta.2.1+1.18
+  - GreaterEye-Fabric-1.18.1-1.3.19
+  - justenoughkeys-0.5.2-fabric
+  - kubejs-fabric-1801.4.0-build.249
+  - LargeFluidTank-18.2.410-fabric
+  - MiningDimensions_Fabric-1.18.1-1.2.38
+  - Mo-Glass-1.6.1-MC1.18.1
+  - MobCatcher-Fabric-1.18.1-1.1.20
+  - modmenu-3.0.1
+  - MoreGems-Fabric-1.18.1-1.3.53
+  - MouseTweaks-fabric-mc1.18-2.20
+  - mythic-mounts-1.18-4.0
+  - OverpoweredPickles-Fabric-1.18.1-1.3.9
+  - owo-lib-0.3.10+1.18
+  - Patchouli-1.18.1-61-FABRIC
+  - phosphor-fabric-mc1.18.x-0.8.1
+  - projectsavethepets-2.0.1+2021.eb4ca13d40
+  - quartz-elevator-2.0.1+1.18
+  - repurposed_structures_fabric-3.1.12+1.18.1
+  - ResourcefulTools-Fabric-1.18.1-1.2.29
+  - RoughlyEnoughItems-7.1.356
+  - SimpleBackpack_Fabric-1.18.1-1.2.27
+  - TheVeggieWay_Fabric-1.18.1-1.2.26
+  - TreeAxe-Fabric-1.18.1-1.1.28
+  - WardBlocks-Fabric-1.18.1-1.2.22
+  - wmitaf-fabric-mc1.18.1-2.2.0
+  - wraith-alloy-forgery-2.0.8+1.18
+  - wraith-harvestscythes-2.3.2
+  - Xaeros_Minimap_21.22.6_Fabric_1.18
+  - XaerosWorldMap_1.18.9_Fabric_1.18
+  - xp_obelisk-0.3.2.r_for_1.18.x_Fabric
+  - xpstorage_trinkets-0.1+1.18
+- Mods Removed:
+- Other Changes:
+  - Fabric Loader 0.12.12
+  - New artwork
+
 ## 99 Mods Fabric Edition 1.18.1-1.8.0
 
 Dec. 13, 2021
