@@ -1,0 +1,3 @@
+identifier = net.minecraft.client.gui.screen.
+title = Multiplayer
+allowesc = true
