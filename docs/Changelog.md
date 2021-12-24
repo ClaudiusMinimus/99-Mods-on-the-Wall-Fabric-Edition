@@ -8,6 +8,7 @@ Dec. 23, 2021
   - DungeonsArise-1.18.1-2.1.49b-fabric-beta
   - farmers-delight-fabric-1.18.1-0.2.0
   - ModularLootcrates-2.6.0-1.18.1
+  - polymorph-fabric-0.0.16-1.18.1
   - red-bits-1.11.0
 - Mods Updated:
   - apples-carrots-1.5
