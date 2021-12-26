@@ -68,6 +68,7 @@ server/server.json
 server/banned-ips.json
 server/banned-players.json
 server/eula.txt
+server/LuckPerms*.jar
 server/ops.json
 server/usernamecache.json
 server/*.tar.xz
