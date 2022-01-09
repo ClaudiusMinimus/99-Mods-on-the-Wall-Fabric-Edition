@@ -47,6 +47,7 @@
 	"enableMiningHelper": true,
 	"enableBound": true,
 	"enableAttracting": true,
+	"enableFreezeProtection": true,
 	/* ***************
 	   Enchantment Settings
 	   ***************
