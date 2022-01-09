@@ -49,6 +49,7 @@ build/99mtw-1.16.5-*.zip
 builds/*(copy).zip
 instance.cfg
 luckperms/*
+minecraft/.bobby/*
 minecraft/ds_private_storage.json
 minecraft/instance.cfg
 minecraft/instance.cfg
@@ -71,7 +72,7 @@ minecraft/servers.dat
 minecraft/servers.dat_old
 minecraft/usercache.json
 minecraft/usernamecache.json
-minecraft/XaeroWaypoints*
+minecraft/Xaero*/*
 modlist.html
 server/*.tar.xz
 server/1.1*.json
@@ -112,26 +113,25 @@ server/whitelist.json
 #!server/config/permissions
 !server/config/treeaxe
 !server/config/yosbr
-!server/config/EssentialCommands.properties
-!server/config/MythicMounts.txt
-!server/config/quartzelv.json
 
 # Still ignore this directory
 #minecraft/config/betterdefaultbiomes/food
 
 # Do not ignore these files
-!minecraft/config/xaerominimap.txt
+!minecraft/config/bcc.json
 !minecraft/config/betterrecipebook.toml
 !minecraft/config/conjuring.json5
 !minecraft/config/customwindowtitle-client.toml
 !minecraft/config/harvest.json
 !minecraft/config/universal-graves.json
+!minecraft/config/xaerominimap.txt
 !minecraft/config/xp_storage.json5
+!mmc-pack.json
 !server/config/conjuring.json5
+!server/config/EssentialCommands.properties
 !server/config/harvest.json
+!server/config/MythicMounts.txt
+!server/config/quartzelv.json
 !server/config/universal-graves.json
 !server/config/xp_storage.json5
 !server/server.properties
-!mmc-pack.json
-minecraft/.bobby/*
-minecraft/Xaero*/*
