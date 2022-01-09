@@ -37,10 +37,10 @@ customization {
   path = config/fancymenu/images/menu/logo-fabric.png
   orientation = mid-centered
   x = 0
-  width = 196
+  width = 157
   action = addtexture
   actionid = 159ba2ba-546b-464c-89f7-20795320f7ae1640288161949
   y = 0
-  height = 200
+  height = 160
 }
 
