@@ -215,7 +215,7 @@
 	"gobberToughness": 2.5,
 	"gobberKnockbackResistance": 0.0,
 	"gobberHeadProtection": 6,
-	"gobberChestProtecction": 11,
+	"gobberChestProtection": 11,
 	"gobberLeggingsProtection": 9,
 	"gobberBootsProtection": 6,
 	/* 
@@ -230,7 +230,7 @@
 	"gobberNetherToughness": 2.75,
 	"gobberNetherKnockbackResistance": 0.10000000149011612,
 	"netherHeadProtection": 7,
-	"netherChestProtecction": 12,
+	"netherChestProtection": 12,
 	"netherLeggingsProtection": 10,
 	"netherBootsProtection": 7,
 	/* 
@@ -245,7 +245,7 @@
 	"gobberEndToughness": 3.0,
 	"gobberEndKnockbackResistance": 0.20000000298023224,
 	"endHeadProtection": 8,
-	"endChestProtecction": 13,
+	"endChestProtection": 13,
 	"endLeggingsProtection": 11,
 	"endBootsProtection": 8,
 	/* 
