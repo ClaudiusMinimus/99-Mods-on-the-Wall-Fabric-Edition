@@ -127,6 +127,7 @@ server/whitelist.json
 !minecraft/config/xaerominimap.txt
 !minecraft/config/xp_storage.json5
 !mmc-pack.json
+!server/config/bcc.json
 !server/config/conjuring.json5
 !server/config/EssentialCommands.properties
 !server/config/harvest.json
