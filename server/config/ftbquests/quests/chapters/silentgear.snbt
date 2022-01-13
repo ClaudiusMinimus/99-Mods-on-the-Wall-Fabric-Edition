@@ -1,0 +1,1903 @@
+{
+	id: "0000000000000035"
+	group: ""
+	order_index: 1
+	filename: "silentgear"
+	title: "Armor, Tools and Weapons"
+	icon: {
+		id: "gobber2:gobber2_paxel_end"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -7.5d
+			y: -3.0d
+			shape: "diamond"
+			description: ["Gobber is one way of gearing up in 99 Mods on the Wall. Always try to keep an eye out for this while you're out mining."]
+			hide: false
+			size: 1.5d
+			id: "000000000000069E"
+			tasks: [{
+				id: "000000000000069F"
+				type: "item"
+				item: "gobber2:gobber2_ore"
+			}]
+			rewards: [{
+				id: "00000000000006D8"
+				type: "xp"
+				xp: 100
+			}]
+		}
+		{
+			x: -7.5d
+			y: -6.0d
+			dependencies: ["000000000000069E"]
+			id: "00000000000006A2"
+			tasks: [{
+				id: "00000000000006A3"
+				type: "item"
+				item: "gobber2:gobber2_ingot"
+			}]
+			rewards: [{
+				id: "000000000000074A"
+				type: "item"
+				item: "minecraft:comparator"
+				count: 4
+			}]
+		}
+		{
+			x: -8.5d
+			y: -7.0d
+			dependencies: ["00000000000006A2"]
+			id: "00000000000006A4"
+			tasks: [
+				{
+					id: "00000000000006A5"
+					type: "item"
+					item: {
+						id: "gobber2:gobber2_helmet"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "00000000000006A6"
+					type: "item"
+					item: {
+						id: "gobber2:gobber2_chestplate"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "00000000000006A7"
+					type: "item"
+					item: {
+						id: "gobber2:gobber2_leggings"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "00000000000006A8"
+					type: "item"
+					item: {
+						id: "gobber2:gobber2_boots"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "00000000000006AD"
+					type: "item"
+					item: "gobber2:block_healer"
+				}
+				{
+					id: "00000000000006AE"
+					type: "item"
+					item: "gobber2:gobber2_armor_repair"
+				}
+			]
+		}
+		{
+			x: -7.5d
+			y: -7.5d
+			dependencies: ["00000000000006A2"]
+			id: "00000000000006A9"
+			tasks: [{
+				id: "00000000000006AA"
+				type: "item"
+				item: {
+					id: "gobber2:gobber2_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "000000000000071C"
+				type: "item"
+				item: "forbidden_arcanus:orb_of_temporary_flight"
+			}]
+		}
+		{
+			x: -6.5d
+			y: -7.0d
+			dependencies: ["00000000000006A2"]
+			id: "00000000000006AB"
+			tasks: [
+				{
+					id: "00000000000006AC"
+					type: "item"
+					item: {
+						id: "gobber2:gobber2_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "00000000000006CD"
+					type: "item"
+					item: {
+						id: "gobber2:gobber2_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "00000000000006CE"
+					type: "item"
+					item: {
+						id: "gobber2:gobber2_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "00000000000006CF"
+				type: "item"
+				item: {
+					id: "gobber2:gobber2_paxel"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -12.0d
+			y: -3.0d
+			dependencies: ["000000000000069E"]
+			id: "00000000000006AF"
+			tasks: [{
+				id: "00000000000006B0"
+				type: "item"
+				item: "gobber2:gobber2_ore_nether"
+			}]
+			rewards: [{
+				id: "0000000000000749"
+				type: "xp"
+				xp: 150
+			}]
+		}
+		{
+			x: -16.5d
+			y: -3.0d
+			dependencies: ["00000000000006AF"]
+			id: "00000000000006B1"
+			tasks: [{
+				id: "00000000000006B2"
+				type: "item"
+				item: "gobber2:gobber2_ore_end"
+			}]
+			rewards: [{
+				id: "0000000000000737"
+				type: "xp"
+				xp: 200
+			}]
+		}
+		{
+			x: -12.0d
+			y: -6.0d
+			dependencies: ["00000000000006AF"]
+			id: "00000000000006B5"
+			tasks: [{
+				id: "00000000000006B6"
+				type: "item"
+				item: "gobber2:gobber2_ingot_nether"
+			}]
+			rewards: [{
+				id: "000000000000080E"
+				type: "item"
+				item: {
+					id: "minecraft:potion"
+					Count: 1b
+					tag: {
+						Potion: "alexsmobs:long_knockback_resistance"
+					}
+				}
+			}]
+		}
+		{
+			x: -13.0d
+			y: -7.0d
+			dependencies: ["00000000000006B5"]
+			id: "00000000000006B7"
+			tasks: [
+				{
+					id: "00000000000006B8"
+					type: "item"
+					item: {
+						id: "gobber2:gobber2_helmet_nether"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "00000000000006B9"
+					type: "item"
+					item: {
+						id: "gobber2:gobber2_chestplate_nether"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "00000000000006BA"
+					type: "item"
+					item: {
+						id: "gobber2:gobber2_leggings_nether"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "00000000000006BB"
+					type: "item"
+					item: {
+						id: "gobber2:gobber2_boots_nether"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "00000000000006D3"
+				type: "item"
+				item: "gobber2:block_protector"
+			}]
+		}
+		{
+			x: -12.0d
+			y: -7.5d
+			dependencies: ["00000000000006B5"]
+			id: "00000000000006BC"
+			tasks: [{
+				id: "00000000000006BD"
+				type: "item"
+				item: {
+					id: "gobber2:gobber2_sword_nether"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "0000000000000727"
+				type: "item"
+				item: {
+					id: "minecraft:enchanted_book"
+					Count: 1b
+					tag: {
+						StoredEnchantments: [{
+							lvl: 3s
+							id: "minecraft:looting"
+						}]
+					}
+				}
+			}]
+		}
+		{
+			x: -11.0d
+			y: -7.0d
+			dependencies: ["00000000000006B5"]
+			id: "00000000000006BE"
+			tasks: [
+				{
+					id: "00000000000006BF"
+					type: "item"
+					item: {
+						id: "gobber2:gobber2_pickaxe_nether"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "00000000000006D0"
+					type: "item"
+					item: {
+						id: "gobber2:gobber2_axe_nether"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "00000000000006D1"
+					type: "item"
+					item: {
+						id: "gobber2:gobber2_shovel_nether"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "00000000000006D2"
+				type: "item"
+				item: {
+					id: "gobber2:gobber2_paxel_nether"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -9.0d
+			y: -6.0d
+			dependencies: ["00000000000006A2"]
+			id: "00000000000006C0"
+			tasks: [{
+				id: "00000000000006C1"
+				type: "item"
+				item: {
+					id: "gobber2:gobber2_bow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "000000000000080F"
+				type: "item"
+				item: "apotheosis:heart_seashelf"
+				count: 4
+			}]
+		}
+		{
+			x: -13.5d
+			y: -6.0d
+			dependencies: ["00000000000006B5"]
+			id: "00000000000006C4"
+			tasks: [{
+				id: "00000000000006C5"
+				type: "item"
+				item: {
+					id: "gobber2:gobber2_bow_nether"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "0000000000000728"
+				type: "item"
+				item: {
+					id: "silentgems:enchantment_token"
+					Count: 1b
+					tag: {
+						TokenEnchantments: [{
+							lvl: 1s
+							id: "apotheosis:true_infinity"
+						}]
+					}
+				}
+			}]
+		}
+		{
+			x: -13.0d
+			y: -5.0d
+			dependencies: ["00000000000006B5"]
+			id: "00000000000006C6"
+			tasks: [{
+				id: "00000000000006C7"
+				type: "item"
+				item: {
+					id: "gobber2:gobber2_tree_axe_nether"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "0000000000000732"
+				type: "item"
+				item: {
+					id: "silentgems:enchantment_token"
+					Count: 1b
+					tag: {
+						TokenEnchantments: [{
+							lvl: 1s
+							id: "apotheosis:berserk"
+						}]
+					}
+				}
+			}]
+		}
+		{
+			x: -6.0d
+			y: -6.0d
+			dependencies: ["00000000000006A2"]
+			id: "00000000000006C8"
+			tasks: [{
+				id: "00000000000006C9"
+				type: "item"
+				item: {
+					id: "gobber2:gobber2_hammer"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "0000000000000810"
+				type: "item"
+				item: {
+					id: "minecraft:potion"
+					Count: 1b
+					tag: {
+						Potion: "minecraft:long_fire_resistance"
+					}
+				}
+			}]
+		}
+		{
+			x: -6.5d
+			y: -5.0d
+			dependencies: ["00000000000006A2"]
+			id: "00000000000006CA"
+			tasks: [{
+				id: "00000000000006CB"
+				type: "item"
+				item: {
+					id: "gobber2:gobber2_excavator"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "000000000000071F"
+				type: "item"
+				item: "forbidden_arcanus:stellarite_piece"
+			}]
+		}
+		{
+			x: -10.5d
+			y: -6.0d
+			dependencies: ["00000000000006B5"]
+			id: "00000000000006D4"
+			tasks: [{
+				id: "00000000000006D5"
+				type: "item"
+				item: {
+					id: "gobber2:gobber2_hammer_nether"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "0000000000000726"
+				type: "item"
+				item: {
+					id: "silentgems:enchantment_token"
+					Count: 1b
+					tag: {
+						TokenEnchantments: [{
+							lvl: 1s
+							id: "silentgems:gravity"
+						}]
+					}
+				}
+			}]
+		}
+		{
+			x: -11.0d
+			y: -5.0d
+			dependencies: ["00000000000006B5"]
+			id: "00000000000006D6"
+			tasks: [{
+				id: "00000000000006D7"
+				type: "item"
+				item: {
+					id: "gobber2:gobber2_excavator_nether"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "75ACF91C17E9B8F9"
+				type: "item"
+				item: {
+					id: "usefulbackpacks:backpack_large"
+					Count: 1b
+					tag: {
+						display: {
+							color: 16351261
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: -16.5d
+			y: -6.0d
+			dependencies: ["00000000000006B1"]
+			id: "00000000000006DC"
+			tasks: [{
+				id: "00000000000006DD"
+				type: "item"
+				item: "gobber2:gobber2_ingot_end"
+			}]
+			rewards: [{
+				id: "0000000000000811"
+				type: "item"
+				item: {
+					id: "silentgems:enchantment_token"
+					Count: 1b
+					tag: {
+						TokenEnchantments: [{
+							lvl: 1s
+							id: "apotheosis:knowledge"
+						}]
+					}
+				}
+			}]
+		}
+		{
+			x: -17.5d
+			y: -7.0d
+			dependencies: ["00000000000006DC"]
+			id: "00000000000006E0"
+			tasks: [
+				{
+					id: "00000000000006E1"
+					type: "item"
+					item: {
+						id: "gobber2:gobber2_helmet_end"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "00000000000006E2"
+					type: "item"
+					item: {
+						id: "gobber2:gobber2_chestplate_end"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "00000000000006E3"
+					type: "item"
+					item: {
+						id: "gobber2:gobber2_leggings_end"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "00000000000006E4"
+					type: "item"
+					item: {
+						id: "gobber2:gobber2_boots_end"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "00000000000006FA"
+				type: "item"
+				item: "gobber2:block_defender"
+			}]
+		}
+		{
+			x: -15.5d
+			y: -7.0d
+			dependencies: ["00000000000006DC"]
+			id: "00000000000006E8"
+			tasks: [
+				{
+					id: "00000000000006E9"
+					type: "item"
+					item: {
+						id: "gobber2:gobber2_pickaxe_end"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "00000000000006EA"
+					type: "item"
+					item: {
+						id: "gobber2:gobber2_axe_end"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "00000000000006EB"
+					type: "item"
+					item: {
+						id: "gobber2:gobber2_shovel_end"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "00000000000006EC"
+				type: "item"
+				item: {
+					id: "gobber2:gobber2_paxel_stars"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.0d
+			y: -6.0d
+			dependencies: ["00000000000006DC"]
+			id: "00000000000006ED"
+			tasks: [{
+				id: "00000000000006EE"
+				type: "item"
+				item: {
+					id: "gobber2:gobber2_hammer_end"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "000000000000073A"
+				type: "item"
+				item: "minecraft:heart_of_the_sea"
+			}]
+		}
+		{
+			x: -15.5d
+			y: -5.0d
+			dependencies: ["00000000000006DC"]
+			id: "00000000000006EF"
+			tasks: [{
+				id: "00000000000006F0"
+				type: "item"
+				item: {
+					id: "gobber2:gobber2_excavator_end"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "0000000000000739"
+				type: "item"
+				item: {
+					id: "minecraft:potion"
+					Count: 1b
+					tag: {
+						Potion: "quark:danger_sight"
+					}
+				}
+			}]
+		}
+		{
+			x: -18.0d
+			y: -6.0d
+			dependencies: ["00000000000006DC"]
+			id: "00000000000006F1"
+			tasks: [{
+				id: "00000000000006F2"
+				type: "item"
+				item: {
+					id: "gobber2:gobber2_bow_end"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "000000000000073B"
+				type: "item"
+				item: "apotheosis:hellshelf"
+				count: 5
+			}]
+		}
+		{
+			x: -17.5d
+			y: -5.0d
+			dependencies: ["00000000000006DC"]
+			id: "00000000000006F3"
+			tasks: [{
+				id: "00000000000006F4"
+				type: "item"
+				item: {
+					id: "gobber2:gobber2_tree_axe_end"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "000000000000073C"
+				type: "item"
+				item: "enderstorage:ender_tank"
+			}]
+		}
+		{
+			x: -8.5d
+			y: -5.0d
+			id: "00000000000006F5"
+			tasks: [{
+				id: "00000000000006F6"
+				type: "item"
+				item: {
+					id: "gobber2:gobber2_tree_axe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "0000000000000720"
+				type: "item"
+				item: "gobber2:gobber2_medallion_breathing"
+			}]
+		}
+		{
+			x: -16.5d
+			y: -7.5d
+			id: "00000000000006F7"
+			tasks: [{
+				id: "00000000000006F8"
+				type: "item"
+				item: {
+					id: "gobber2:gobber2_sword_end"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "0000000000000733"
+				type: "item"
+				item: "gobber2:gobber2_staff_sniper"
+			}]
+		}
+		{
+			x: -7.5d
+			y: 0.5d
+			dependencies: ["000000000000069E"]
+			id: "00000000000006FB"
+			tasks: [{
+				id: "00000000000006FC"
+				type: "item"
+				item: "gobber2:gobber2_ring"
+			}]
+			rewards: [{
+				id: "0000000000000719"
+				type: "item"
+				item: "gobber2:gobber2_foo"
+			}]
+		}
+		{
+			x: -6.5d
+			y: -0.5d
+			dependencies: ["00000000000006FB"]
+			id: "00000000000006FD"
+			tasks: [{
+				id: "00000000000006FE"
+				type: "item"
+				item: "gobber2:gobber2_ring_return"
+			}]
+			rewards: [{
+				id: "000000000000072B"
+				type: "item"
+				item: "forbidden_arcanus:quantum_catcher"
+				count: 4
+			}]
+		}
+		{
+			x: -6.5d
+			y: 1.5d
+			dependencies: ["00000000000006FB"]
+			id: "00000000000006FF"
+			tasks: [{
+				id: "0000000000000700"
+				type: "item"
+				item: "gobber2:gobber2_ring_miner"
+			}]
+			rewards: [
+				{
+					id: "000000000000072C"
+					type: "item"
+					item: "silentgems:ruby_teleporter"
+				}
+				{
+					id: "000000000000072D"
+					type: "item"
+					item: {
+						id: "silentgems:ruby_return_home_charm"
+						Count: 1b
+						tag: {
+							posX: 9446
+							posY: 177
+							dim: "minecraft:overworld"
+							posZ: 55878
+							IsReady: 0b
+						}
+					}
+				}
+			]
+		}
+		{
+			x: -8.5d
+			y: -0.5d
+			dependencies: ["00000000000006FB"]
+			id: "0000000000000701"
+			tasks: [{
+				id: "0000000000000702"
+				type: "item"
+				item: "gobber2:gobber2_ring_swiftness"
+			}]
+			rewards: [{
+				id: "0000000000000812"
+				type: "item"
+				item: "silentgems:transmutation_altar"
+			}]
+		}
+		{
+			x: -8.5d
+			y: 1.5d
+			dependencies: ["00000000000006FB"]
+			id: "0000000000000703"
+			tasks: [{
+				id: "0000000000000704"
+				type: "item"
+				item: "gobber2:gobber2_ring_ascent"
+			}]
+			rewards: [{
+				id: "0000000000000813"
+				type: "item"
+				item: {
+					id: "forbidden_arcanus:slimec_pickaxe"
+					Count: 1b
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							lvl: 1s
+							id: "minecraft:silk_touch"
+						}]
+					}
+				}
+			}]
+		}
+		{
+			x: -12.0d
+			y: 0.5d
+			dependencies: ["00000000000006AF"]
+			id: "0000000000000705"
+			tasks: [{
+				id: "0000000000000706"
+				type: "item"
+				item: "gobber2:gobber2_ring_nether"
+			}]
+			rewards: [{
+				id: "000000000000071A"
+				type: "item"
+				item: "gobber2:gobber2_foo_nether"
+			}]
+		}
+		{
+			x: -11.0d
+			y: -0.5d
+			dependencies: ["0000000000000705"]
+			id: "0000000000000707"
+			tasks: [{
+				id: "0000000000000708"
+				type: "item"
+				item: "gobber2:gobber2_ring_vision"
+			}]
+			rewards: [{
+				id: "0000000000000722"
+				type: "item"
+				item: "metalbarrels:diamond_barrel"
+			}]
+		}
+		{
+			x: -13.0d
+			y: -0.5d
+			dependencies: ["0000000000000705"]
+			id: "0000000000000709"
+			tasks: [{
+				id: "000000000000070A"
+				type: "item"
+				item: "gobber2:gobber2_ring_blaze"
+			}]
+			rewards: [{
+				id: "0000000000000723"
+				type: "item"
+				item: {
+					id: "gobber2:gobber2_medallion_exp"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -11.0d
+			y: 1.5d
+			dependencies: ["0000000000000705"]
+			id: "000000000000070B"
+			tasks: [{
+				id: "000000000000070C"
+				type: "item"
+				item: "gobber2:gobber2_ring_acceleration"
+			}]
+			rewards: [{
+				id: "0000000000000725"
+				type: "item"
+				item: "gobber2:gobber2_gooey_bread_nether"
+				count: 8
+			}]
+		}
+		{
+			x: -13.0d
+			y: 1.5d
+			dependencies: ["0000000000000705"]
+			id: "000000000000070D"
+			tasks: [{
+				id: "000000000000070E"
+				type: "item"
+				item: "gobber2:gobber2_ring_curing"
+			}]
+			rewards: [{
+				id: "0000000000000724"
+				type: "item"
+				item: "gobber2:gobber2_gooey_beefstew_nether"
+				count: 8
+			}]
+		}
+		{
+			x: -16.5d
+			y: 0.5d
+			dependencies: ["00000000000006B1"]
+			id: "000000000000070F"
+			tasks: [{
+				id: "0000000000000710"
+				type: "item"
+				item: "gobber2:gobber2_ring_end"
+			}]
+			rewards: [{
+				id: "000000000000071B"
+				type: "item"
+				item: "gobber2:gobber2_foo_end"
+			}]
+		}
+		{
+			x: -15.5d
+			y: -0.5d
+			dependencies: ["000000000000070F"]
+			id: "0000000000000711"
+			tasks: [{
+				id: "0000000000000712"
+				type: "item"
+				item: "gobber2:gobber2_ring_dismissal"
+			}]
+			rewards: [{
+				id: "0000000000000734"
+				type: "item"
+				item: "enderstorage:ender_tank"
+			}]
+		}
+		{
+			x: -15.5d
+			y: 1.5d
+			dependencies: ["000000000000070F"]
+			id: "0000000000000713"
+			tasks: [{
+				id: "0000000000000714"
+				type: "item"
+				item: "gobber2:gobber2_ring_stealth"
+			}]
+			rewards: [{
+				id: "0000000000000730"
+				type: "item"
+				item: "gobber2:gobber2_medallion_conduit"
+			}]
+		}
+		{
+			x: -17.5d
+			y: -0.5d
+			dependencies: ["000000000000070F"]
+			id: "0000000000000715"
+			tasks: [{
+				id: "0000000000000716"
+				type: "item"
+				item: "gobber2:gobber2_ring_teleport"
+			}]
+			rewards: [{
+				id: "0000000000000735"
+				type: "item"
+				item: {
+					id: "silentgems:enchantment_token"
+					Count: 1b
+					tag: {
+						TokenEnchantments: [{
+							lvl: 1s
+							id: "minecraft:silk_touch"
+						}]
+					}
+				}
+			}]
+		}
+		{
+			x: -17.5d
+			y: 1.5d
+			dependencies: ["000000000000070F"]
+			id: "0000000000000717"
+			tasks: [{
+				id: "0000000000000718"
+				type: "item"
+				item: "gobber2:gobber2_ring_blink"
+			}]
+			rewards: [{
+				id: "0000000000000736"
+				type: "item"
+				item: {
+					id: "minecraft:enchanted_book"
+					Count: 1b
+					tag: {
+						StoredEnchantments: [{
+							lvl: 3s
+							id: "apotheosis:capturing"
+						}]
+					}
+				}
+			}]
+		}
+		{
+			x: -1.0d
+			y: -2.5d
+			shape: "diamond"
+			size: 1.5d
+			id: "13B11BEC6B66DA32"
+			tasks: [{
+				id: "67F120D0331DDD09"
+				type: "item"
+				item: "minecraft:copper_ingot"
+				count: 64L
+			}]
+		}
+		{
+			x: -1.0d
+			y: -4.5d
+			dependencies: ["13B11BEC6B66DA32"]
+			id: "5B2A9F5DB67C490C"
+			tasks: [{
+				id: "440C67005DC71F33"
+				type: "item"
+				item: {
+					id: "emerald_tools:copper_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -2.5d
+			y: -4.0d
+			dependencies: ["13B11BEC6B66DA32"]
+			id: "047A8DDC2DDDE336"
+			tasks: [
+				{
+					id: "7BC2D9E156CCC10E"
+					type: "item"
+					item: {
+						id: "emerald_tools:copper_helmet"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "0EBC35885D238CB8"
+					type: "item"
+					item: {
+						id: "emerald_tools:copper_chestplate"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "2EE09596EE525BE1"
+					type: "item"
+					item: {
+						id: "emerald_tools:copper_leggings"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "18BF5D57CF712A5E"
+					type: "item"
+					item: {
+						id: "emerald_tools:copper_boots"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 0.5d
+			y: -4.0d
+			dependencies: ["13B11BEC6B66DA32"]
+			id: "6731A14BB2DFF272"
+			tasks: [
+				{
+					id: "40673502D2F21EFD"
+					type: "item"
+					item: {
+						id: "emerald_tools:copper_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "7B3D44C57C772CC0"
+					type: "item"
+					item: {
+						id: "emerald_tools:copper_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "2FC585CB214DE976"
+					type: "item"
+					item: {
+						id: "emerald_tools:copper_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "0A62A8BAF4BB3F26"
+				type: "item"
+				item: {
+					id: "emerald_tools:copper_paxel"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 1.0d
+			y: -2.5d
+			dependencies: ["13B11BEC6B66DA32"]
+			id: "33FDDB66D3D549F5"
+			tasks: [{
+				id: "46DC0D62B933729E"
+				type: "item"
+				item: {
+					id: "emerald_tools:copper_hammer"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: -1.0d
+			dependencies: ["13B11BEC6B66DA32"]
+			id: "5984436BC9E4E51C"
+			tasks: [{
+				id: "48277283A3700726"
+				type: "item"
+				item: {
+					id: "emerald_tools:copper_excavator"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -3.0d
+			y: -2.5d
+			dependencies: ["13B11BEC6B66DA32"]
+			id: "4E206950200F3671"
+			tasks: [{
+				id: "395C79E8803D99DC"
+				type: "item"
+				item: {
+					id: "emerald_tools:copper_bow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -2.0d
+			y: -1.0d
+			dependencies: ["13B11BEC6B66DA32"]
+			id: "02E7C21F2123DE39"
+			tasks: [{
+				id: "68D72F28C7A66CF6"
+				type: "item"
+				item: {
+					id: "emerald_tools:copper_shears"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 4.0d
+			y: -7.0d
+			dependencies: [
+				"74BF4BAF8EBDEDEA"
+				"4F114D7856CE6FE3"
+				"546410869DD2EA05"
+				"3FD7CC98703018B1"
+				"033A920236D86E83"
+			]
+			id: "4D2B419D0946089C"
+			tasks: [
+				{
+					id: "6B020498A1BE3877"
+					type: "item"
+					item: {
+						id: "emerald_tools:ruby_helmet"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "70F6871A76269635"
+					type: "item"
+					item: {
+						id: "emerald_tools:ruby_chestplate"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "25D37EC678F31B5B"
+					type: "item"
+					item: {
+						id: "emerald_tools:ruby_leggings"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "7E63D68525838E2B"
+					type: "item"
+					item: {
+						id: "emerald_tools:ruby_boots"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 6.5d
+			y: -1.0d
+			dependencies: [
+				"2B1A7B2C629CCD11"
+				"1C96DD7EE2D35B46"
+				"773875786F917064"
+				"48433F2F012472B0"
+				"2CA09EDE9BB020AC"
+			]
+			id: "14A6727FC3F98588"
+			tasks: [
+				{
+					id: "7C8D6692BFD2E059"
+					type: "item"
+					item: {
+						id: "emerald_tools:emerald_helmet"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "1538259ECC852F7C"
+					type: "item"
+					item: {
+						id: "emerald_tools:emerald_chestplate"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "3D156E7847A0ECB2"
+					type: "item"
+					item: {
+						id: "emerald_tools:emerald_leggings"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "1A69E81A7EED617F"
+					type: "item"
+					item: {
+						id: "emerald_tools:emerald_boots"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 9.5d
+			y: -7.0d
+			dependencies: [
+				"7A4F6EA095702B5D"
+				"45D4382287DBE342"
+				"35C35705E3B639E3"
+				"215C73D1C87FCA1D"
+				"3BCE77CE061ECFDC"
+			]
+			id: "0F5F3A5441FF5E45"
+			tasks: [
+				{
+					id: "3EAD33DB3341AEEC"
+					type: "item"
+					item: {
+						id: "more_gems:carbonado_helmet"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "15F53BF1D13A8E38"
+					type: "item"
+					item: {
+						id: "more_gems:carbonado_chestplate"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: false
+				}
+				{
+					id: "3002FDF862E18B53"
+					type: "item"
+					item: {
+						id: "more_gems:carbonado_leggings"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "65A9126ADB1125D6"
+					type: "item"
+					item: {
+						id: "more_gems:carbonado_boots"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "1B1F4B824DDF0744"
+				type: "item"
+				item: {
+					id: "more_gems:carbonado_chestplate_gilded"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 6.5d
+			y: 0.5d
+			id: "48433F2F012472B0"
+			tasks: [{
+				id: "743CCDBF21D9C915"
+				type: "item"
+				item: {
+					id: "emerald_tools:emerald_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 7.5d
+			y: -2.0d
+			id: "2CA09EDE9BB020AC"
+			tasks: [
+				{
+					id: "595F4E856578CBDF"
+					type: "item"
+					item: {
+						id: "emerald_tools:emerald_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "11A46E01D73AAC6A"
+					type: "item"
+					item: {
+						id: "emerald_tools:emerald_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "3D8B06E5922DCD37"
+					type: "item"
+					item: {
+						id: "emerald_tools:emerald_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "696A743EE46124CC"
+				type: "item"
+				item: {
+					id: "emerald_tools:emerald_paxel"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 8.0d
+			y: -0.5d
+			id: "2B1A7B2C629CCD11"
+			tasks: [{
+				id: "527268027D9FED67"
+				type: "item"
+				item: {
+					id: "emerald_tools:emerald_hammer"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 5.0d
+			y: -0.5d
+			id: "1C96DD7EE2D35B46"
+			tasks: [{
+				id: "5648C2E7B450A111"
+				type: "item"
+				item: {
+					id: "emerald_tools:emerald_excavator"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 5.5d
+			y: -2.0d
+			id: "773875786F917064"
+			tasks: [{
+				id: "14C8BEF44A3D7D9F"
+				type: "item"
+				item: {
+					id: "emerald_tools:emerald_bow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 3.0d
+			y: -8.0d
+			id: "74BF4BAF8EBDEDEA"
+			tasks: [{
+				id: "415421449CB6D2F2"
+				type: "item"
+				item: {
+					id: "emerald_tools:ruby_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 5.0d
+			y: -8.0d
+			id: "4F114D7856CE6FE3"
+			tasks: [
+				{
+					id: "3D47B6DB8AC6B2BB"
+					type: "item"
+					item: {
+						id: "emerald_tools:ruby_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "22B2A856389EE15E"
+					type: "item"
+					item: {
+						id: "emerald_tools:ruby_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "43A3CBC0E6C101DF"
+					type: "item"
+					item: {
+						id: "emerald_tools:ruby_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "69ACA7BCF4C77FB4"
+				type: "item"
+				item: {
+					id: "emerald_tools:ruby_paxel"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 5.5d
+			y: -6.5d
+			id: "546410869DD2EA05"
+			tasks: [{
+				id: "4B66FBDA00A9509B"
+				type: "item"
+				item: {
+					id: "emerald_tools:ruby_hammer"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 4.0d
+			y: -5.5d
+			id: "3FD7CC98703018B1"
+			tasks: [{
+				id: "583D4C726D7A7393"
+				type: "item"
+				item: {
+					id: "emerald_tools:ruby_excavator"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 2.5d
+			y: -6.5d
+			id: "033A920236D86E83"
+			tasks: [{
+				id: "0583DE18294A25B6"
+				type: "item"
+				item: {
+					id: "emerald_tools:ruby_bow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 9.0d
+			y: -8.5d
+			id: "7A4F6EA095702B5D"
+			tasks: [{
+				id: "234A78711A376676"
+				type: "item"
+				item: {
+					id: "more_gems:carbonado_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 10.5d
+			y: -8.0d
+			id: "3BCE77CE061ECFDC"
+			tasks: [
+				{
+					id: "34FF54478855FC6A"
+					type: "item"
+					item: {
+						id: "more_gems:carbonado_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "41BA320EBDF2A47A"
+					type: "item"
+					item: {
+						id: "more_gems:carbonado_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "2E8EDD64F23EB341"
+					type: "item"
+					item: {
+						id: "more_gems:carbonado_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "1609C9A016C4C435"
+				type: "item"
+				item: {
+					id: "more_gems:carbonado_paxel"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 11.0d
+			y: -6.5d
+			id: "215C73D1C87FCA1D"
+			tasks: [{
+				id: "52926F76CA95E365"
+				type: "item"
+				item: {
+					id: "more_gems:carbonado_hammer"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 9.5d
+			y: -5.5d
+			id: "35C35705E3B639E3"
+			tasks: [{
+				id: "78B6E6B64241C62E"
+				type: "item"
+				item: {
+					id: "more_gems:carbonado_excavator"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 8.0d
+			y: -7.0d
+			id: "45D4382287DBE342"
+			tasks: [{
+				id: "77A7500F8DDF4E61"
+				type: "item"
+				item: {
+					id: "more_gems:carbonado_bow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			title: "Complete one of the sets"
+			x: 6.5d
+			y: -4.5d
+			shape: "hexagon"
+			dependencies: [
+				"4D2B419D0946089C"
+				"0F5F3A5441FF5E45"
+				"14A6727FC3F98588"
+			]
+			dependency_requirement: "one_completed"
+			size: 1.5d
+			id: "00B8AD2DF27E33A5"
+			tasks: [{
+				id: "51B7462955596B14"
+				type: "checkmark"
+			}]
+			rewards: [{
+				id: "7A664823B6DEF2D4"
+				type: "item"
+				item: "minecraft:netherite_block"
+			}]
+		}
+	]
+}
