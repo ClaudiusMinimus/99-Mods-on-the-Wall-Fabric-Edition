@@ -115,12 +115,8 @@
 					id: "silentgear:crossbow"
 					Count: 1b
 					tag: {
-						SGear_UUIDLeast: -5793065083293377914L
-						SGear_UUIDMost: 3787864417353944517L
-						Damage: 0
 						SGear_Data: {
 							Construction: {
-								IsExample: 1
 								Parts: [
 									{
 										Item: {
@@ -158,6 +154,11 @@
 										ID: "silentgear:highlight/highlight"
 									}
 								]
+								IsExample: 1
+							}
+							Rendering: {
+								BlendedHeadColor: 1973790
+								ArmorColor: -1
 							}
 							ModelKeys: {
 								0: "crossbow|0|0|0_0|0|0"
@@ -203,11 +204,10 @@
 								harvest_level: 3.0f
 								rarity: 65.0f
 							}
-							Rendering: {
-								BlendedHeadColor: 1973790
-								ArmorColor: -1
-							}
 						}
+						SGear_UUIDLeast: -5793065083293377914L
+						SGear_UUIDMost: 3787864417353944517L
+						Damage: 0
 					}
 				}
 			}]
@@ -653,6 +653,11 @@
 				type: "item"
 				item: "more_gems:gembag"
 			}]
+			rewards: [{
+				id: "02738FBE63F22A4C"
+				type: "item"
+				item: "emerald_tools:ruby_block"
+			}]
 		}
 		{
 			x: -1.5d
@@ -663,6 +668,11 @@
 				id: "7DF00808C44B376B"
 				type: "item"
 				item: "simple_backpack:ender_pack"
+			}]
+			rewards: [{
+				id: "623811BE0699B694"
+				type: "item"
+				item: "minecraft:ender_chest"
 			}]
 		}
 	]
