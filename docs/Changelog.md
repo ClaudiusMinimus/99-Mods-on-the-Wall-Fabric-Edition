@@ -67,6 +67,8 @@ Jan. 12, 2022
 - Mods Removed:
   - flan-1.18-1.6.4-fabric (replaced with FTB Chunks) You will need to reset all of your chunk claims
 - Other Changes:
+  - Quests imported from 99 Mods Forge and tweaked
+  - Farmer's Delight pantries recipes have been removed and hidden from REI due to critical bug that crashes game. Will re-enable when fixed.
 
 ## 99 Mods Fabric Edition 1.18.1-1.9.0
 
