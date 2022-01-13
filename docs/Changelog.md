@@ -1,5 +1,73 @@
 # Change Log
 
+## 99 Mods Fabric Edition 1.18.1-1.10.0
+
+Jan. 12, 2022
+
+- Mods Added:
+  - bcc-fabric-1.0.4
+  - extremesoundmuffler-3.22_fabric-1.18.1
+  - farmers-delight-fabric-1.18.1-0.2.0
+  - ftb-chunks-fabric-1801.3.3-build.113
+  - ftb-library-fabric-1801.3.5-build.109
+  - ftb-quests-fabric-1801.3.7-build.87
+  - ftb-ranks-fabric-1801.1.6-build.22
+  - ftb-teams-fabric-1801.2.4-build.46
+  - item-filters-fabric-1801.2.6-build.16
+  - totw_additions-1.1.0-1.18.1-fabric
+  - towers_of_the_wild_reworked-2.1.0
+- Mods Updated:
+  - Adorn-3.1.0+1.18.1-fabric
+  - architectury-3.4.9
+  - balm-fabric-2.4.0+0
+  - blockus-2.3.4+1.18.1
+  - BountifulFabric-2.0.2
+  - BuildingWands-2.3.3_mc1.18.1-fabric
+  - conjuring-1.0.18+1.18
+  - consistency_plus-0.4.3+1.18-fabric
+  - dankstorage-1.18.1-3.4.1
+  - dark-enchanting-0.6.3+1.18
+  - DungeonsArise-1.18.1-2.1.49c-fabric-beta
+  - EmeraldTools-Fabric-1.18.1-1.3.34
+  - EnchantmentDescriptions-Fabric-1.18.1-9.0.9
+  - EssentialGUI-1.7.1+1.18.1
+  - fabric-api-0.45.2+1.18
+  - fancymenu_fabric_2.5.1_MC_1.18-1.18.1
+  - farmingforblockheads-fabric-1.18.1-9.0.2
+  - geckolib-fabric-1.18-3.0.24
+  - Gobber2-Fabric-1.18.1-2.5.59
+  - graves-2.0.0-beta.3+1.18
+  - grizzlybear-1.18-1.2.2
+  - InventoryProfilesNext-fabric-1.18-1.2.3
+  - justenoughkeys-0.5.3-fabric
+  - Kambrik-3.1.0-1.18
+  - konkrete_fabric_1.3.3_MC_1.18-1.18.1
+  - kubejs-fabric-1801.4.1-build.271
+  - LargeFluidTank-18.3.0-fabric
+  - ModularLootcrates-2.7.0-1.18.1
+  - MoreGems-Fabric-1.18.1-1.3.55
+  - MouseTweaks-fabric-mc1.18-2.22
+  - owo-lib-0.3.14+1.18
+  - Patchouli-1.18.1-64-FABRIC
+  - polymorph-fabric-0.0.18-1.18.1
+  - redstone-bits-1.6.2+fabric-mc1.18
+  - reeses_sodium_options-mc1.18.1-1.3.0
+  - reinforced-shulker-boxes-1.1.7+1.18
+  - repurposed_structures_fabric-3.2.0+1.18.1
+  - ResourcefulTools-Fabric-1.18.1-1.2.30
+  - rhino-fabric-1800.1.7-build.92
+  - RoughlyEnoughItems-7.1.361
+  - SimpleBackpack_Fabric-1.18.1-1.2.28
+  - TheVeggieWay_Fabric-1.18.1-1.2.27
+  - things-0.2.11+1.18
+  - TreeAxe-Fabric-1.18.1-1.1.29
+  - wraith-harvestscythes-2.4.0
+  - Xaeros_Minimap_21.23.1_Fabric_1.18
+  - XaerosWorldMap_1.19.1_Fabric_1.18
+- Mods Removed:
+  - flan-1.18-1.6.4-fabric (replaced with FTB Chunks) You will need to reset all of your chunk claims
+- Other Changes:
+
 ## 99 Mods Fabric Edition 1.18.1-1.9.0
 
 Dec. 23, 2021
